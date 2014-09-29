@@ -1,4 +1,7 @@
+import Data.String
+import Data.Version
 import Hakyll
+import System.FilePath
 
 ------------- Configuration  ---------------------------------
 
@@ -9,11 +12,24 @@ rsyncPath :: String  -- where to rsync the generated site
 rsyncPath =  "ppk@turing.cse.iitk.ac.in:"
           ++ "/homepages/local/ppk/admissions/"
 
+-- The version of the twitter bootstrap that is used. When you use a
+-- new version, make sure to change this.
+
+bootstrapVersion :: Version
+bootstrapVersion = Version [3, 2, 0] []
 
 -------------- Rules for building ------------------------------
 
+bootstrapPat = fromString $  "bootstrap-"
+                          ++  showVersion bootstrapVersion
+                          </> "**"
+
 rules :: Rules ()
-rules = return ()
+rules = do
+  -- Get the bootstrap stuff on.
+  match bootstrapPat $ do
+    route idRoute
+    compile copyFileCompiler
 
 
 --------------- Main and sundry ---------------------------------
