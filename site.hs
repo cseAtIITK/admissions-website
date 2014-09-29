@@ -1,3 +1,7 @@
+{-# LANGUAGE OverloadedStrings #-}
+
+import Control.Applicative
+import Control.Monad
 import Data.String
 import Data.Version
 import Hakyll
@@ -30,6 +34,41 @@ rules = do
   match bootstrapPat $ do
     route idRoute
     compile copyFileCompiler
+
+  -- Templates
+  match "templates/*.html" $ compile templateCompiler
+
+  match "index.md" $ do
+    route $ setExtension "html"
+    compilePipeline indexPage
+
+
+--------------- Compilers and contexts --------------------------
+
+indexContext :: Context String
+indexContext = defaultContext
+
+type Pipeline a b = Item a -> Compiler (Item b)
+
+-- | Similar to compile but takes a compiler pipeline instead.
+compilePipeline ::  Pipeline String String -> Rules ()
+compilePipeline pipeline = compile $ getResourceBody >>= pipeline
+
+pandoc :: Pipeline String String
+pandoc = reader >=> writer
+  where reader = return . readPandoc
+        writer = return . writePandoc
+
+indexPage = applyAsTemplate indexContext
+            >=> pandoc
+            >=> postPandoc indexContext
+
+-- | Stuff to do after pandocing.
+postPandoc :: Context String -> Pipeline String String
+postPandoc cxt = apply layoutT >=> apply wrapperT >=> relativizeUrls
+  where apply template = loadAndApplyTemplate template cxt
+        layoutT  = "templates/layout.html"
+        wrapperT = "templates/wrapper.html"
 
 
 --------------- Main and sundry ---------------------------------
