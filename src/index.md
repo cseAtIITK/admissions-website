@@ -1,5 +1,6 @@
 ---
 title: Home
+atom: /atom.xml
 ---
 
 Welcome to the admissions page.

@@ -1,6 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-import Control.Applicative
 import Control.Monad
 import Data.Monoid
 import Data.String
@@ -29,8 +28,19 @@ maxAnnouncements = 10
 bootstrapVersion :: Version
 bootstrapVersion = Version [3, 2, 0] []
 
--------------- Rules for building ------------------------------
+-- The configuration of feeds.
+feedConfig :: FeedConfiguration
+feedConfig = FeedConfiguration
+  { feedTitle       = "Admissions at CSE.IITK"
+  , feedDescription = "PG admissions at Dept. CSE, IIT Kanpur"
+  , feedAuthorName  = "Admissions"
+  , feedAuthorEmail = "admissions@cse.iitk.ac.in.REMOVETHISIFYOUAREAHUMAN"
+  , feedRoot        = "http://web.cse.iitk.ac.in/users/ppk/admissions"
+  }
 
+
+-------------- Rules for building ------------------------------
+bootstrapPat :: Pattern
 bootstrapPat = fromString $  "bootstrap-"
                           ++  showVersion bootstrapVersion
                           </> "**"
@@ -47,8 +57,13 @@ rules = do
 
   -- Announcements. This is essentially a blog.
   match announcePat $ do
-    route $ announceRoute
+    route $ beautifulRoute
     compilePipeline announcePage
+
+  -- Create atom feeds for announcements.
+  create ["atom.xml"] $ do
+    route idRoute
+    compile announceFeeds
 
   match "index.md" $ do
     route $ setExtension "html"
@@ -57,33 +72,28 @@ rules = do
 
 --------------- Compilers and contexts --------------------------
 
-stdContext   :: Context String
-stdContext   = defaultContext
-
-indexContext :: Context String
-indexContext = stdContext <> listField "announcements" announceContext
-                                       announcements
-
-defaultTemplates :: [Identifier]
-defaultTemplates = [ "templates/layout.html"
-                   , "templates/wrapper.html"
-                   ]
-
 type Pipeline a b = Item a -> Compiler (Item b)
 
 -- | Similar to compile but takes a compiler pipeline instead.
 compilePipeline ::  Pipeline String String -> Rules ()
 compilePipeline pipeline = compile $ getResourceBody >>= pipeline
 
+-- Better named routes for announcements.
+beautifulRoute :: Routes
+beautifulRoute = customRoute $ \ ident -> dropExtension (toFilePath ident)
+                                          </> "index.html"
+
+
+defaultTemplates :: [Identifier]
+defaultTemplates = [ "templates/layout.html"
+                   , "templates/wrapper.html"
+                   ]
+
+
 pandoc :: Pipeline String String
 pandoc = reader >=> writer
   where reader = return . readPandoc
         writer = return . writePandoc
-
-indexPage :: Pipeline String String
-indexPage = applyAsTemplate indexContext
-            >=> pandoc
-            >=> postPandoc indexContext
 
 postPandoc :: Context String -> Pipeline String String
 postPandoc cxt = applyTemplates cxt defaultTemplates
@@ -94,34 +104,45 @@ applyTemplates :: Context String
 applyTemplates cxt = foldr (>=>) relativizeUrls . map apt
   where apt = flip loadAndApplyTemplate cxt
 
+---------------  Index page ----------------------------------
+
+
+indexPage :: Pipeline String String
+indexPage = applyAsTemplate indexContext
+            >=> pandoc
+            >=> postPandoc indexContext
+
+
+indexContext :: Context String
+indexContext = defaultContext <> listField "announcements" announceContext
+                                       announceIndex
+  where announceIndex = loadAll announcePat
+                        >>= fmap (take maxAnnouncements) . recentFirst
+
 --------------- Compilers and routes for announcements --------
+
 announcePat     :: Pattern
 announcePat     = "announcements/*.md"
-
-announceContext :: Context String
-announceContext = stdContext <> dateField "date" dateFormat
-
--- Better named routes for announcements.
-announceRoute :: Routes
-announceRoute = customRoute beautify
-  where beautify ident = dropExtension (toFilePath ident)
-                         </> "index.html"
 
 announcePage :: Pipeline String String
 announcePage = pandoc
                >=> saveSnapshot "content"
                >=> postPandoc announceContext
 
+announceContext :: Context String
+announceContext = defaultContext  <> dateField "date" dateFormat
+
+announceFeedContext :: Context String
+announceFeedContext = announceContext <> bodyField "description"
+
 
 -- | Generating feeds.
-compileFeeds :: Compiler [Item String]
-compileFeeds =   loadAllSnapshots announcePat "content"
-             >>= fmap (take maxAnnouncements) . recentFirst
-             >>= mapM relativizeUrls
-
-
-announcements = loadAll announcePat
-              >>= fmap (take maxAnnouncements) . recentFirst
+announceFeeds   :: Compiler (Item String)
+announceFeeds   = loadAllSnapshots announcePat "content"
+                >>= recentFirst
+                >>= renderAtom feedConfig feedContext
+                >>= relativizeUrls
+  where feedContext = announceContext <> bodyField "description"
 
 --------------- Main and sundry ---------------------------------
 
