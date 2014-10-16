@@ -1,12 +1,14 @@
-HAKYLL_TARGETS= watch build rebuild deploy clean
+HAKYLL_TARGETS= watch build rebuild  clean
 
 site: site.hs
 	ghc --make site.hs
 
-.PHONY: ${HAKYLL_TARGETS}
+.PHONY: ${HAKYLL_TARGETS} deploy
 ${HAKYLL_TARGETS}: site
 	./site $@
 
+deploy: build
+	./site deploy
 
 dist-clean:
 	rm site
