@@ -119,8 +119,10 @@ indexPage = applyAsTemplate indexContext
 
 
 indexContext :: Context String
-indexContext = defaultContext <> listField "announcements" announceContext
-                                       announceIndex
+indexContext = defaultContext
+               <> listField "announcements" announceContext announceIndex
+               <> totalAnnounce "announcecount"
+
   where announceIndex = loadAll announcePat
                         >>= fmap (take maxAnnouncements) . recentFirst
 --------------- Compilers and routes for announcements --------
@@ -153,6 +155,12 @@ announceFeeds   = loadAllSnapshots announcePat "content"
   where feedContext = announceContext <> bodyField "description"
 
 ------------------- All announcements.
+
+announceCount :: Compiler String
+announceCount = fmap (show . length) $ getMatches announcePat
+
+totalAnnounce :: String -> Context String
+totalAnnounce nm = field nm (const announceCount)
 
 allAnnounce :: Pipeline String String
 allAnnounce = applyAsTemplate allContext
