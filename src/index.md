@@ -6,11 +6,13 @@ jumbotron: yes
 
 Welcome to the admissions page.
 
-## [Announcements <span class="badge">$announcecount$</span>][ann]
+## Announcements
 
 <hr/>
 
 $partial("templates/main-page-announcements.html")$
+
+
 
 
 [ann]: </announcements.html> "Read all $announcecount$"

@@ -1,0 +1,11 @@
+<div class="panel panel-default">
+  <div class="panel-heading"><h4>$year$
+    <span class="badge">$count$</span>
+    </h4>
+  </div>
+  <ul class="list-group">
+    $for(announcements)$
+    <li class="list-group-item"> <a href="$url$">$title$</a> $date$ </li>
+    $endfor$
+  </ul>
+</div>

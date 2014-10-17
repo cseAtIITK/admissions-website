@@ -53,7 +53,7 @@ rules = do
     compile copyFileCompiler
 
   -- Templates
-  match "templates/*.html" $ compile templateCompiler
+  match "templates/*" $ compile templateCompiler
 
   -- Announcements. This is essentially a blog.
   match announcePat $ do
@@ -65,10 +65,14 @@ rules = do
     route idRoute
     compile announceFeeds
 
-  -- All announcements
-  match "announcements.md" $ do
-    route $ setExtension "html"
-    compilePipeline allAnnounce
+  dateTags <- buildTagsWith (\ ident -> return [getYear ident])
+                            announcePat
+                            $ fromCapture "announcements/archive/*.html"
+
+
+  match "announcements.html" $ do
+    route idRoute
+    compilePipeline $ allAnnounce $ sortTagsBy sortYear dateTags
 
   match "index.md" $ do
     route $ setExtension "html"
@@ -139,7 +143,7 @@ announceContext :: Context String
 announceContext = defaultContext  <> dateField "date" dateFormat
                                   <> dateField "month" "%b"
                                   <> dateField "year"  "%Y"
-                                  <> dateField "day"   "%a"
+                                  <> dateField "day"   "%A"
                                   <> dateField "dayofmonth" "%e"
                                   <> teaserField "teaser" "content"
 announceFeedContext :: Context String
@@ -162,14 +166,38 @@ announceCount = fmap (show . length) $ getMatches announcePat
 totalAnnounce :: String -> Context String
 totalAnnounce nm = field nm (const announceCount)
 
-allAnnounce :: Pipeline String String
-allAnnounce = applyAsTemplate allContext
-            >=> pandoc
-            >=> postPandoc indexContext
+allAnnounce :: Tags -> Pipeline String String
+allAnnounce tags = applyAsTemplate allContext
+                   >=> postPandoc indexContext
   where allContext = defaultContext
-                   <> listField "announcements" announceContext
-                                       announceIndex
-        announceIndex = loadAll announcePat >>= recentFirst
+                   <> listField "yearly" announceContext
+                                         announceIndex
+        announceIndex = yearTagsCompiler tags
+
+-- | This function generates the year of the post from its
+-- identifier. This is used in building the archives.
+getYear :: Identifier -> String
+getYear = takeWhile (/= '-') . takeFileName . toFilePath
+
+-- | Sorting year tags with
+sortYear :: (String,a) -> (String, a) -> Ordering
+sortYear (y,_) (y',_) = compare (read y :: Int) $ read y'
+
+yearTagsCompiler :: Tags -> Compiler [Item String]
+yearTagsCompiler tags =
+  sequence [ yearTagRender y ids | (y,ids) <- tagsMap tags ]
+
+
+yearTagRender :: String -> [Identifier] -> Compiler (Item String)
+yearTagRender y idents = makeItem ("" :: String)
+                         >>= loadAndApplyTemplate "templates/year.html"
+                             context
+  where context = constField "year" y
+                  <> constField "count" (show $ length idents)
+                  <> listField "announcements" announceContext annIndex
+
+
+        annIndex = loadAll (fromList idents) >>= recentFirst
 
 --------------- Main and sundry ---------------------------------
 
