@@ -1,6 +1,7 @@
 ---
 title: Home
 atom: /atom.xml
+jumbotron: yes
 ---
 
 Welcome to the admissions page.

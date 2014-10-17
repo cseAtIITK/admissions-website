@@ -17,22 +17,26 @@
     <meta name="generator" content="pandoc" />
     <title>Admissions@cse.iitk|$title$</title>
   </head>
-  <body>
-    <div class="page-header">
-      <h1>Department of Computer Science and Engineering</h1>
-    </div>
-    <nav class="navbar navbar-inverse" role="navigation">
-      <div class="container-fluid">
-	<div class="navbar-header">
-	  <a class="navbar-brand" href="/">Admissions</a>
-	</div>
-	<ul class="navbar navbar-nav navbar-right">
-	  <li><a href="/atom.xml">Follow us</a></li>
-	</ul>
-
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+	<a class="navbar-brand" href="/">Admissions</a>
       </div>
-    </nav>
-    <div class="container-fluid">
+      <ul class="nav navbar-nav navbar-right">
+	<li>
+	  <a href="/" title="Home">
+	    <span class="glyphicon glyphicon-home"></span>
+	  </a>
+	</li>
+	<li><a href="/atom.xml">Follow us</a></li>
+      </ul>
+    </div>
+  </nav>
+  <body>
+    <div class="container">
+      $if(jumbotron)$
+      $partial("templates/jumbotron.html")$
+      $endif$
       $body$
     </div>
   </body>
