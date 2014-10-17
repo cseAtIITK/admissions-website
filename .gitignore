@@ -1,0 +1,6 @@
+_cache
+old
+_site
+site
+site.o
+*.hi
