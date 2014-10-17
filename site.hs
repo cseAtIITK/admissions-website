@@ -65,6 +65,11 @@ rules = do
     route idRoute
     compile announceFeeds
 
+  -- All announcements
+  match "announcements.md" $ do
+    route $ setExtension "html"
+    compilePipeline allAnnounce
+
   match "index.md" $ do
     route $ setExtension "html"
     compilePipeline indexPage
@@ -118,7 +123,6 @@ indexContext = defaultContext <> listField "announcements" announceContext
                                        announceIndex
   where announceIndex = loadAll announcePat
                         >>= fmap (take maxAnnouncements) . recentFirst
-
 --------------- Compilers and routes for announcements --------
 
 announcePat     :: Pattern
@@ -131,7 +135,11 @@ announcePage = pandoc
 
 announceContext :: Context String
 announceContext = defaultContext  <> dateField "date" dateFormat
-
+                                  <> dateField "month" "%b"
+                                  <> dateField "year"  "%Y"
+                                  <> dateField "day"   "%a"
+                                  <> dateField "dayofmonth" "%e"
+                                  <> teaserField "teaser" "content"
 announceFeedContext :: Context String
 announceFeedContext = announceContext <> bodyField "description"
 
@@ -143,6 +151,17 @@ announceFeeds   = loadAllSnapshots announcePat "content"
                 >>= renderAtom feedConfig feedContext
                 >>= relativizeUrls
   where feedContext = announceContext <> bodyField "description"
+
+------------------- All announcements.
+
+allAnnounce :: Pipeline String String
+allAnnounce = applyAsTemplate allContext
+            >=> pandoc
+            >=> postPandoc indexContext
+  where allContext = defaultContext
+                   <> listField "announcements" announceContext
+                                       announceIndex
+        announceIndex = loadAll announcePat >>= recentFirst
 
 --------------- Main and sundry ---------------------------------
 
