@@ -18,7 +18,11 @@ the Ph.D program. This admission will be confirmed provided the
 student completes his/her undergraduate program with a graduation CPI
 of at least 7.5.
 
-Candidates admitted through this route will get institute stipend as
-per rules which for BTech graduates directly admitted to PhD is Rs
-16000/- pm for the first two years, and increases by Rs2000/-
-p.m. thereafter.
+Candidates admitted through this route will get an institute stipend
+as per rules, which for B. Tech graduates directly admitted to PhD is
+Rs 16,000/- per month for the first two years which increases to Rs
+18,000/- per month thereafter.
+
+For more details please refer to Section 2 of the [PG manual]
+
+[PG manual]: <http://www.iitk.ac.in/doaa/PG%20Manual%20Final.pdf> "PG Manual"
