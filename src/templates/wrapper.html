@@ -15,28 +15,21 @@
 	  rel="stylesheet" type="text/css" />
     <script src="/bootstrap-3.2.0/js/bootstrap.min.js"></script>
     <meta name="generator" content="pandoc" />
+    $if(jumbotron)$
+    <style type="text/css">
+      .navbar { margin: 0; /* hack to get rid of the gap */
+              }
+    </style>
+    $endif$
     <title>Admissions@cse.iitk|$title$</title>
   </head>
-  <nav class="navbar navbar-default" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-	<a class="navbar-brand" href="/">Admissions</a>
-      </div>
-      <ul class="nav navbar-nav navbar-right">
-	<li>
-	  <a href="/" title="Home">
-	    <span class="glyphicon glyphicon-home"></span>
-	  </a>
-	</li>
-	<li><a href="/atom.xml">Follow us</a></li>
-      </ul>
-    </div>
-  </nav>
+  $if(jumbotron)$
+  $partial("templates/jumbotron.html")$
+  $else$
+  $partial("templates/navigation.html")$
+  $endif$
   <body>
     <div class="container">
-      $if(jumbotron)$
-      $partial("templates/jumbotron.html")$
-      $endif$
       $body$
     </div>
   </body>
