@@ -25,7 +25,8 @@ why you should consider joining our department is
 4. **Vibrant Campus life:** IIT Kanpur is known to have a vibrant
    campus life with a good dose of extra-curricular activities, culture
    and music. We are not to far from some interesting places to visit in
-   India. <a class="btn btn-default pull-right" href="/why.html">Read more...</a>
+   India. <a class="btn btn-default pull-right" href="/why/">
+   Read more...</a>
 
 ### When to apply?
 

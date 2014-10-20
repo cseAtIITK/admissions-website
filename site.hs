@@ -78,6 +78,10 @@ rules = do
     route $ setExtension "html"
     compilePipeline indexPage
 
+  match "**/index.md" $ do
+    route $ setExtension "html"
+    compilePipeline page
+
 
 --------------- Compilers and contexts --------------------------
 
@@ -121,6 +125,8 @@ indexPage = applyAsTemplate indexContext
             >=> pandoc
             >=> postPandoc indexContext
 
+page :: Pipeline String String
+page = pandoc >=> postPandoc defaultContext
 
 indexContext :: Context String
 indexContext = defaultContext
