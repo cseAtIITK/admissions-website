@@ -1,10 +1,12 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+import Control.Applicative
 import Control.Monad
 import Data.Monoid
 import Data.String
 import Data.Version
 import Hakyll
+import System.Environment
 import System.FilePath
 import Text.Pandoc
 
@@ -14,8 +16,8 @@ websiteSrc :: String -- source from which the website is built
 websiteSrc = "src"
 
 rsyncPath :: String  -- where to rsync the generated site
-rsyncPath =  "ppk@turing.cse.iitk.ac.in:"
-          ++ "/homepages/local/ppk/admissions/"
+rsyncPath =  "admissions@turing.cse.iitk.ac.in:"
+          ++ "/homepages/local/admissions/admissions/"
 
 dateFormat :: String
 dateFormat = "%B %e, %Y (%A)"
@@ -227,13 +229,12 @@ yearTagRender y idents = makeItem ("" :: String)
 --------------- Main and sundry ---------------------------------
 
 main :: IO ()
-main = hakyllWith config rules
+main = do conf <- config
+          hakyllWith conf rules
 
-config :: Configuration -- ^ The configuration. Don't edit this
-                        -- instead edit the stuff on the top section
-
-config = defaultConfiguration { deployCommand     = deploy
-                              , providerDirectory = websiteSrc
-                              }
-  where rsync  dest = "rsync -avvz _site/ " ++ dest
-        deploy = rsync rsyncPath
+config :: IO Configuration
+config = fromEnv <$> getEnvironment
+  where fromEnv  = maybe siteConf setRsyncUrl . lookup "SITE_RSYNC_URL"
+        siteConf = defaultConfiguration { providerDirectory = websiteSrc }
+        setRsyncUrl u = siteConf { deployCommand = rsync u }
+        rsync  dest = "rsync -avvz _site/ " ++ dest
