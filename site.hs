@@ -6,6 +6,7 @@ import Data.String
 import Data.Version
 import Hakyll
 import System.FilePath
+import Text.Pandoc
 
 ------------- Configuration  ---------------------------------
 
@@ -82,6 +83,10 @@ rules = do
     route $ setExtension "html"
     compilePipeline page
 
+  match "faq.md" $ do
+    route $ setExtension "html"
+    compilePipeline $ faqPandoc >=> postPandoc defaultContext
+
 
 --------------- Compilers and contexts --------------------------
 
@@ -104,9 +109,23 @@ defaultTemplates = [ "templates/layout.html"
 
 
 pandoc :: Pipeline String String
-pandoc = reader >=> writer
-  where reader = return . readPandoc
-        writer = return . writePandoc
+pandoc = pandocWith readPandoc writePandoc
+
+faqPandoc :: Pipeline String String
+faqPandoc = pandocWith readPandoc $ writePandocWith opts
+  where opts = defaultHakyllWriterOptions
+               { writerTableOfContents = True
+               , writerStandalone      = True
+               , writerTOCDepth        = 4
+               , writerNumberSections  = True
+               , writerTemplate        = "$toc$\n<hr/>$body$"
+               }
+
+-- Pandoc with a given reader and writer functions.
+pandocWith :: (Item String -> Item Pandoc) -- the reader
+           -> (Item Pandoc -> Item String) -- The writer
+           -> Pipeline String String
+pandocWith reader writer = return . reader >=> return . writer
 
 postPandoc :: Context String -> Pipeline String String
 postPandoc cxt = applyTemplates cxt defaultTemplates
