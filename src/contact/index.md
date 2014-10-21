@@ -3,12 +3,12 @@ title: Contact Information
 ---
 
 Email is the preferred means of communication. During the admission
-session, we get a lot of queries and it really becomes difficult to
-answer all of them. Before sending an email ensure that:
+season, we get a lot of queries. It becomes difficult to answer all of
+them. Before sending an email ensure that:
 
 1. You have read the [Frequently asked questions][faq] and your query
    is not answered there. We may refuse to respond to your query if we
-   believe that the faq answers your question.
+   believe that the [faq] answers your question satisfactorily.
 
 2. Make sure you read the latest announcements. In particular, we will
    declare the results through such announcements on our homepage.

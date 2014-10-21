@@ -11,13 +11,17 @@ Absolutely, yes. See [why](/why/)
 
 ## When are the tests/interviews?
 
-For selection to our M.Tech program, the interviews and tests are held
-in the beginning of May. Ph. D candidates are selected two times a
-year, once in the month of December and once in May.
+M.Tech admissions:
+:   For selection to our M.Tech program, the interviews and tests are
+    usually held in the beginning of May.
 
-In addition, for exceptional Ph.D candidates, we conduct walk-in
-interviews all through the year. You have to arrange for the dates in
-advance.
+
+Ph. D admissions:
+
+:   Ph.D selections happens twice an year, once in the month of December
+    and once in May. In addition, for exceptional Ph.D candidates, we
+    conduct walk-in interviews all through the year. You have to
+    arrange for the dates in advance.
 
 Look out for announcements on our [homepage](/)
 
@@ -26,10 +30,12 @@ Look out for announcements on our [homepage](/)
 ## Should I have a valid GATE score for M.Tech admission?
 
 Unless you are a sponsored or part-time student you do need a valid
-[GATE] score. However, starting from the academic session of 2015, we
-give admissions to selected final B.Tech students of any of the CFTI's
-direct admission without [GATE]. See the [announcement][direct-phd].
+[GATE] score.
 
+## I am a final year B.Tech student in a C.F.T.I. Do I require GATE?
+
+At present the direct admission, i.e. with out [GATE], is only for
+Ph.D admissions and not M.Tech admissions.
 
 ## What is the syllabus for the entrance test/interview at IITK?
 
@@ -68,7 +74,7 @@ Please look out for announcements on our [main page](/)
 
 # Ph.D admissions
 
-## Should I have a [GATE] score for a Ph.D?
+## Should I have a GATE score for a Ph.D?
 
 For M.Tech/M.E students:
 :    If you have an M.Tech or M.E. degree in any discipline with minimum
@@ -88,9 +94,12 @@ For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
     their performance in our admission test and interview. The exact
     requirements are given in Section 2 of the PG manual, *here*.
 
-	Recently M.H.R.D has allowed admission of final year B.Tech
-	students from any of the C.F.T.I's. For details consult the
-	[announcement on our homepage][direct-phd]
+Direct admission for final year B.Tech students:
+
+:   Recently M.H.R.D approved stipends for admission of final year
+    B.Tech students from any of the C.F.T.I's. These candidates *need not*
+	have a valid GATE score. For details consult the
+    [announcement on our homepage][direct-phd]
 
 
 ## What is the syllabus for the test/interview for Ph.D candidates?
