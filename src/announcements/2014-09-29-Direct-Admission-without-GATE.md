@@ -8,13 +8,14 @@ for a Ph.D.
 <!--more-->
 
 We now offer *direct admissions* to motivated B.Tech students who are
-currently in their final years in any of the *Centrally Funded
-Technological Institutions* (CFTI). To be eligible, you need to have a
-CPI of at least 7.5 at the end of their sixth semester. Having a valid
-GATE score is *not* mandatory. However, you will have to appear for
-the interviews/tests that the department conducts in the
-winter. Successful candidates will be given a provisional admission to
-the Ph.D program. This admission will be confirmed provided the
+currently in their final year in any of the *Centrally Funded
+Technological Institutions* (CFTIs). To be eligible, you need to have
+a CPI (average grade out of 10) of at least 7.5 at the end of the
+sixth semester. Having a valid GATE score is *not* mandatory. However,
+you will have to appear for the interviews/tests that the department
+conducts in the winter (i.e. after seven semesters of
+B.Tech). Successful candidates will be given a provisional admission
+to the Ph.D program. This admission will be confirmed provided the
 student completes his/her undergraduate program with a graduation CPI
 of at least 7.5.
 
