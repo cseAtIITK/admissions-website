@@ -189,7 +189,7 @@ you have to meet.
 
 ## How do I reach IIT Kanpur.
 
-See our [travelling page]
+See the [travel info page][travel]
 
 ## Where do I stay?
 
@@ -204,3 +204,4 @@ blankets etc. Kanpur can get quite cold during the month of December.
 [GATE]: <http://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering>
 [PG manual]: <http://www.iitk.ac.in/doaa/PG%20Manual%20Final.pdf> "PG Manual"
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
+[travel]: </travel> "Reaching IIT Kanpur"
