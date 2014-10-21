@@ -9,6 +9,17 @@ csstweaks: h1{font-size: 24px;}h2{font-size: 18px;}
 
 Absolutely, yes. See [why](/why/)
 
+## How to apply?
+
+You can send your completed forms either by mail or you can chose to apply
+online. For details check the [admission notices][doaa].
+
+## I am a foreign national. How do I apply?
+
+The procedure is same as for Indian national --- check the
+[notices][doaa]. You can however ignore the last dates mentioned
+there.
+
 ## When are the tests/interviews?
 
 M.Tech admissions:
@@ -214,3 +225,4 @@ blankets etc. Kanpur can get quite cold during the month of December.
 [PG manual]: <http://www.iitk.ac.in/doaa/PG%20Manual%20Final.pdf> "PG Manual"
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
 [travel]: </travel> "Reaching IIT Kanpur"
+[doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>

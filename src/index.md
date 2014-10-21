@@ -22,7 +22,7 @@ why you should consider joining our department is
    in campus placements, some of our department's alumni are leading
    figures in academics and industries both in India and abroad.
 
-4. **Vibrant Campus life:** IIT Kanpur is known to have a vibrant
+4. **Vibrant campus life:** IIT Kanpur is known to have a vibrant
    campus life with a good dose of extra-curricular activities, culture
    and music. We are not to far from some interesting places to visit in
    India. <a class="btn btn-default pull-right" href="/why/">
@@ -30,9 +30,17 @@ why you should consider joining our department is
 
 ### When to apply?
 
-Admissions happen twice an year, in the winter, usually in the first
-week of December and in the summer, usually early May. Lookout for
-an announcement on this webpage.
+Admissions for M.Tech happen in the early May every year.  Ph. D
+admissions are held twice a year. In the winter, it is usually held in
+the first week of December and in the summer, in early May. Lookout
+for an announcement on this webpage.
+
+### How to apply?
+
+You can apply online or via postal applications.  Please checkout the
+[notice on PG admissions][doaa] on the IITK website for
+details. Foreign nationals who want to join our Ph.D program can
+ignore the last dates give there.
 
 
 ## Announcements
@@ -43,3 +51,4 @@ $partial("templates/main-page-announcements.html")$
 
 
 [ann]: </announcements.html> "Read all $announcecount$"
+[doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
