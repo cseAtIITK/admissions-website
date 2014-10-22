@@ -55,6 +55,10 @@ rules = do
     route idRoute
     compile copyFileCompiler
 
+  match "images/*" $ do
+    route idRoute
+    compile copyFileCompiler
+
   -- Templates
   match "templates/*" $ compile templateCompiler
 
