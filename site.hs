@@ -72,10 +72,11 @@ rules = do
                             announcePat
                             $ fromCapture "announcements/archive/*.html"
 
-
   match "announcements.html" $ do
-    route idRoute
-    compilePipeline $ allAnnounce $ sortTagsBy sortYear dateTags
+    deps <- makePatternDependency announcePat
+    rulesExtraDependencies [deps] $ do
+      route idRoute
+      compilePipeline $ allAnnounce $ sortTagsBy sortYear dateTags
 
   match "index.md" $ do
     route $ setExtension "html"
