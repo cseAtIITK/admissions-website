@@ -97,20 +97,22 @@ For M.Tech/M.E students:
      are given in Section 2. of the [PG Manual].
 
 For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
-:   The [GATE] score is necessary to obtain a stipend from the Ministry
-    of Human Resources Development, Govt. of India. Note that this is
-    technically **not** an admission requirement, but is practically
-    relevant. Unlike M.Tech admission, Ph.D. admission has **no
-    cutoff** for [GATE] score. We will select candidates based on
+:   For Ph. D students, we provide Ph.D scholarship against teaching
+    assistance in the courses taught here. The [GATE] score
+    is necessary to obtain such a teaching assistanctship from the
+    Ministry of Human Resources Development, Govt. of India. Note that
+    this is technically **not** an admission requirement, but is
+    practically relevant. Unlike M.Tech admission, Ph.D. admission has
+    **no cutoff** for [GATE] score. We will select candidates based on
     their performance in our admission test and interview. The exact
     requirements are given in Section 2 of the PG manual, *here*.
 
 Direct admission for final year B.Tech students:
 
-:   Recently M.H.R.D approved stipends for admission of final year
-    B.Tech students from any of the C.F.T.I's. These candidates *need not*
-	have a valid GATE score. For details consult the
-    [announcement on our homepage][direct-phd]
+:   Recently M.H.R.D approved teaching assistantship for admission of
+    final year B.Tech students from any of the C.F.T.I's. These
+    candidates *need not* have a valid GATE score. For details consult
+    the [announcement on our homepage][direct-phd]
 
 
 ## What is the syllabus for the test/interview for Ph.D candidates?
