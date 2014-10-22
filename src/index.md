@@ -28,19 +28,14 @@ why you should consider joining our department is
    India. <a class="btn btn-default pull-right" href="/why/">
    Read more...</a>
 
-### When to apply?
+<br/>
 
-Admissions for M.Tech happen in the early May every year.  Ph. D
-admissions are held twice a year. In the winter, it is usually held in
-the first week of December and in the summer, in early May. Lookout
-for an announcement on this webpage.
+<div class="alert alert-danger">
 
-### How to apply?
+**Important:** Ph. D admissions for December 2014 are on. Checkout the
+  [announcement][phd2014-ann] for details.
 
-You can apply online or via postal applications.  Please checkout the
-[notice on PG admissions][doaa] on the IITK website for
-details. Foreign nationals who want to join our Ph.D program can
-ignore the last dates give there.
+</div>
 
 
 ## Announcements
@@ -52,3 +47,5 @@ $partial("templates/main-page-announcements.html")$
 
 [ann]: </announcements.html> "Read all $announcecount$"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
+[dec2014]: <http://www.iitk.ac.in/doaa/DOAA/admission2014_2.htm>
+[phd2014-ann]: </announcements/2014-10-22-Ph.D-admission-December-2014/>
