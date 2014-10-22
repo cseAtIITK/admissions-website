@@ -170,7 +170,7 @@ announceContext :: Context String
 announceContext = defaultContext  <> dateField "date" dateFormat
                                   <> dateField "month" "%b"
                                   <> dateField "year"  "%Y"
-                                  <> dateField "day"   "%A"
+                                  <> dateField "day"   "%a"
                                   <> dateField "dayofmonth" "%e"
                                   <> teaserField "teaser" "content"
 announceFeedContext :: Context String
