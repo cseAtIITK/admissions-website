@@ -10,13 +10,13 @@ higher studies, whether it is M.Tech or a Ph.D. Some of the reasons
 why you should consider joining our department is
 
 1. **Flexible course structure:** Our post graduate program places the
-  emphasis of mostly electives and thesis. For students who want to
-  refresh their basics we do have a few introductory courses mainly to
-  make up for gaps in their knowledge.
+  emphasis on electives and thesis. For students who want to refresh
+  their basics, we do have a few introductory courses mainly to make up
+  for gaps in their knowledge.
 
 2. **Good research facilities:** State of the art laboratories, active
-   faculty and research groups makes our department an ideal place to
-   do a masters or a Ph.D.
+   faculty and research groups make our department an ideal place to
+   do a masters or a Ph. D.
 
 3. **Excellent job opportunities:** Besides the excellent track record
    in campus placements, some of our department's alumni are leading
@@ -24,7 +24,7 @@ why you should consider joining our department is
 
 4. **Vibrant campus life:** IIT Kanpur is known to have a vibrant
    campus life with a good dose of extra-curricular activities, culture
-   and music. We are not to far from some interesting places to visit in
+   and music. We are not too far from some interesting places to visit in
    India. <a class="btn btn-default pull-right" href="/why/">
    Read more...</a>
 
