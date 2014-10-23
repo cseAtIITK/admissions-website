@@ -4,10 +4,11 @@ atom: /atom.xml
 jumbotron: yes
 ---
 
-Welcome to the admissions webpage. The department of computer science
-and Engineering at IIT Kanpur offers a unique opportunity for pursuing
-higher studies, whether it is M.Tech or a Ph.D. Some of the reasons
-why you should consider joining our department is
+Welcome to the admissions webpage. The
+[department of Computer Science and Engineering][cse] at
+[IIT Kanpur][iitk] offers a unique opportunity for pursuing higher
+studies, whether it is M.Tech or a Ph.D. Some of the reasons why you
+should consider joining our department is
 
 1. **Flexible course structure:** Our post graduate program places the
   emphasis on electives and thesis. For students who want to refresh
@@ -49,3 +50,5 @@ $partial("templates/main-page-announcements.html")$
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
 [dec2014]: <http://www.iitk.ac.in/doaa/DOAA/admission2014_2.htm>
 [phd2014-ann]: </announcements/2014-10-22-Ph.D-admission-December-2014/>
+[cse]: <http://cse.iitk.ac.in/>
+[iitk]: <http://www.iitk.ac.in/>
