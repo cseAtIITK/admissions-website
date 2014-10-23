@@ -19,6 +19,6 @@ them. Before sending an email ensure that:
 
 4. Please ensure that you have a valid subject field in your mail.
 
-You can send your mail to admissions at iitk.ac.in.
+You can send your mail to <admissions@cse.iitk.ac.in>.
 
 [faq]: </faq.html> "Frequently asked questions"
