@@ -11,10 +11,10 @@ Delhi-Kanpur route is particularly well served. However, tickets might
 be difficult to obtain in short notice. Some of the better options are
 the following.
 
-- The night train "Shram Shakti" #12452
-- Lucknow Shatabdi #12004
-- Kanpur Shatabdi #12034 (except Sundays)
-- Any of the many Rajdhani expresses.
+- The night train *Shram Shakti* #12452
+- Lucknow *Shatabdi* #12004
+- Kanpur *Shatabdi* #12034 (except Sundays)
+- Any of the many east bound *Rajdhani* expresses.
 
 
 The southern cities are not that well connected to Kanpur. In case of
