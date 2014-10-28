@@ -4,6 +4,17 @@ atom: /atom.xml
 jumbotron: yes
 ---
 
+
+<div class="alert alert-danger">
+
+**Important:** Ph. D admissions for December 2014 are on. Checkout the
+  [announcement][phd2014-ann] for details.
+
+**GATE wavier:** Final year B.Techs from C.F.T.Is are eligible. See the
+[announcement][direct-phd].
+
+</div>
+
 Welcome to the admissions webpage. The
 [department of Computer Science and Engineering][cse] at
 [IIT Kanpur][iitk] offers a unique opportunity for pursuing higher
@@ -31,13 +42,6 @@ should consider joining our department is
 
 <br/>
 
-<div class="alert alert-danger">
-
-**Important:** Ph. D admissions for December 2014 are on. Checkout the
-  [announcement][phd2014-ann] for details.
-
-</div>
-
 
 ## Announcements
 
@@ -52,3 +56,4 @@ $partial("templates/main-page-announcements.html")$
 [phd2014-ann]: </announcements/2014-10-22-Ph.D-admission-December-2014/>
 [cse]: <http://cse.iitk.ac.in/>
 [iitk]: <http://www.iitk.ac.in/>
+[direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
