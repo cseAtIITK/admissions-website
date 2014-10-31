@@ -2,6 +2,7 @@
 
 import Control.Applicative
 import Control.Monad
+import Data.List
 import Data.Monoid
 import Data.String
 import Data.Version
@@ -108,6 +109,15 @@ beautifulRoute :: Routes
 beautifulRoute = customRoute $ \ ident -> dropExtension (toFilePath ident)
                                           </> "index.html"
 
+-- | Convert foo/index.html to foo/
+cleanUrl :: Item String -> Compiler (Item String)
+cleanUrl = return . fmap (withUrls rmIndex)
+  where rmIndex url
+          | isInfixOf "://" url = url
+          | otherwise           = case splitFileName url of
+            (dir, "index.html") -> dir
+            _                   -> url
+
 
 defaultTemplates :: [Identifier]
 defaultTemplates = [ "templates/layout.html"
@@ -140,8 +150,9 @@ postPandoc cxt = applyTemplates cxt defaultTemplates
 applyTemplates :: Context String
                -> [Identifier]
                -> Pipeline String String
-applyTemplates cxt = foldr (>=>) relativizeUrls . map apt
+applyTemplates cxt = foldr (>=>) fixUrls . map apt
   where apt = flip loadAndApplyTemplate cxt
+        fixUrls = cleanUrl >=> relativizeUrls
 
 ---------------  Index page ----------------------------------
 
