@@ -39,7 +39,7 @@ feedConfig = FeedConfiguration
   , feedDescription = "PG admissions at Dept. CSE, IIT Kanpur"
   , feedAuthorName  = "Admissions"
   , feedAuthorEmail = "admissions@cse.iitk.ac.in.REMOVETHISIFYOUAREAHUMAN"
-  , feedRoot        = "http://web.cse.iitk.ac.in/users/ppk/admissions"
+  , feedRoot        = "http://cse.iitk.ac.in/users/admissions"
   }
 
 
@@ -146,13 +146,13 @@ pandocWith reader writer = return . reader >=> return . writer
 
 postPandoc :: Context String -> Pipeline String String
 postPandoc cxt = applyTemplates cxt defaultTemplates
+                 >=> cleanUrl >=> relativizeUrls
 
 applyTemplates :: Context String
                -> [Identifier]
                -> Pipeline String String
-applyTemplates cxt = foldr (>=>) fixUrls . map apt
+applyTemplates cxt = foldr1 (>=>) . map apt
   where apt = flip loadAndApplyTemplate cxt
-        fixUrls = cleanUrl >=> relativizeUrls
 
 ---------------  Index page ----------------------------------
 
