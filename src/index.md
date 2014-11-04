@@ -10,7 +10,7 @@ jumbotron: yes
 **Important:** Ph. D admissions for December 2014 are on. Checkout the
   [announcement][phd2014-ann] for details.
 
-**GATE wavier:** Final year B.Techs from C.F.T.Is are eligible. See the
+**GATE wavier:** Final year students from C.F.T.Is are eligible. See the
 [announcement][direct-phd].
 
 </div>

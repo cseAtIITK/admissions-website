@@ -2,12 +2,13 @@
 title: Direct admission to the Ph.D program
 ---
 
-Are you a final year B.Tech student? Does exploring the cutting edge
-of current knowledge excite you? Then consider joining us *directly*
-for a Ph.D.
+Are you in the final year of your under graduation? Does exploring the
+cutting edge of current knowledge excite you? Then consider joining us
+*directly* for a Ph.D.
 <!--more-->
 
-We now offer *direct admissions* to motivated B.Tech students who are
+We now offer *direct Ph. D admissions* to motivated B.Tech/BE/BS
+students in Computer Science (or closely related streams) who are
 currently in their final year in any of the *Centrally Funded
 Technological Institutions* (CFTIs). To be eligible, you need to have
 a CPI (average grade out of 10) of at least 7.5 at the end of the
