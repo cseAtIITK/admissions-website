@@ -14,6 +14,13 @@ Absolutely, yes. See [why](/why/)
 You can send your completed forms either by mail or you can chose to apply
 online. For details check the [admission notices][doaa].
 
+The address to send the completed application forms is
+
+> The Convener DPGC,\
+> Department of Computer Science and Engineering,\
+> Indian Institute of Technology Kanpur,\
+> Kanpur, UP, 208016.
+
 ## I am a foreign national. How do I apply?
 
 The procedure is same as for Indian national --- check the
@@ -157,7 +164,6 @@ questions in greater depth, the interview panel will also ask specific
 questions based on the area that you want to work on, for your Ph.D.
 
 ## Is there a fixed number of candidates who will be selected?
-
 
 No. We will select all able candidates. What we are looking for are
 competent, motivated students who are highly likely to succeed our Ph.D
