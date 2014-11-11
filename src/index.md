@@ -10,7 +10,7 @@ jumbotron: yes
 **Important:** Ph. D admissions for December 2014 are on. Checkout the
   [announcement][phd2014-ann] for details.
 
-**GATE wavier:** Final year students from C.F.T.Is are eligible. See the
+**GATE wavier:** Final year students from [CFTI]s are eligible. See the
 [announcement][direct-phd].
 
 </div>
@@ -57,3 +57,4 @@ $partial("templates/main-page-announcements.html")$
 [cse]: <http://cse.iitk.ac.in/>
 [iitk]: <http://www.iitk.ac.in/>
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
+[cfti]: <http://mhrd.gov.in/technical-education-1>

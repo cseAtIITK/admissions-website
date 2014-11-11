@@ -140,7 +140,7 @@ For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
 Direct admission for final year B.Tech students:
 
 :   Recently M.H.R.D approved teaching assistantship for admission of
-    final year B.Tech students from any of the C.F.T.I's. These
+    final year B.Tech students from any of the [CFTI]s. These
     candidates *need not* have a valid GATE score. For details consult
     the [announcement on our homepage][direct-phd]
 
@@ -149,7 +149,7 @@ Direct admission for final year B.Tech students:
 In general, you should apply in December *only if* you can/are willing
 to join IIT Kanpur in the winter semester, i.e. the semester that
 starts immediately in January. However, if you are a final year B.Tech
-student from one of the CFTIs and want to apply to us via the
+student from one of the [CFTI]s and want to apply to us via the
 [Direct admission][direct-phd] scheme then consider applying in the
 month of December itself *even though* you can join only in the
 subsequent summer.
@@ -171,7 +171,7 @@ Alan:
     suite* (semester starting end December).
 
 Ada:
-:   She is a final year B.Tech student at a CFTI and will finish
+:   She is a final year B.Tech student at a [CFTI] and will finish
     her UG program some time in May 2015. Her dream is to work on the
     programming aspects of the recently proposed Analytic Engine. We
     recommend her applying in December. She can then join us in the
@@ -292,3 +292,4 @@ blankets etc. Kanpur can get quite cold during the month of December.
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
 [travel]: </travel> "Reaching IIT Kanpur"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
+[cfti]: <http://mhrd.gov.in/technical-education-1>
