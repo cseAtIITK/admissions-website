@@ -114,6 +114,41 @@ Direct admission for final year B.Tech students:
     candidates *need not* have a valid GATE score. For details consult
     the [announcement on our homepage][direct-phd]
 
+## Should I apply in December or in May?
+
+In general, you should apply in December *only if* you can/are willing
+to join IIT Kanpur in the winter semester, i.e. the semester that
+starts immediately in January. However, if you are a final year B.Tech
+student from one of the CFTIs and want to apply to us via the
+[Direct admission][direct-phd] scheme then consider applying in the
+month of December itself *even though* you can join only in the
+subsequent summer.
+
+To illustrate, here are three examples (we are currently in Oct of
+2014)
+
+Donald:
+:   Is currently doing his M.Tech and is expected to complete in June of
+    2015. He is keen on working on algorithms. We recommend applying
+    in the summer of 2015 (some where around May).
+
+Alan:
+:   Already has an M.Tech degree and is fixing COBOL bugs in an
+    outsourcing company. He is fed up with his job and fondly
+    remembers the time he spent breaking the encryption scheme behind
+    the enigma machine. We recommend him applying for the December
+    2014 admissions session so that he can join us *tout
+    suite* (semester starting end December).
+
+Ada:
+:   She is a final year B.Tech student at a CFTI and will finish
+    her UG program some time in May 2015. Her dream is to work on the
+    programming aspects of the recently proposed Analytic Engine. We
+    recommend her applying in December. She can then join us in the
+    summer of 2015.
+
+In the future, we might change the process. Please keep an eye on the
+announcements section of our main page.
 
 ## What is the syllabus for the test/interview for Ph.D candidates?
 
