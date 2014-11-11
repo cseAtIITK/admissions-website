@@ -21,6 +21,29 @@ The address to send the completed application forms is
 > Indian Institute of Technology Kanpur,\
 > Kanpur, UP, 208016.
 
+## How should I send the recommendation letters?
+
+The recommendation letters are supposed to be confidential. Please ask
+your referee to send the letters in a sealed envelope to.
+
+> The Convener DPGC,\
+> Department of Computer Science and Engineering,\
+> Indian Institute of Technology Kanpur,\
+> Kanpur, UP, 208016.
+
+It can also be sent via email to <admissions@cse.iitk.ac.in>. However,
+ensure the following:
+
+1. Please send either a plain text or a pdf. *Do not* send doc or other
+   closed formats.
+
+2. The subject field clearly mention that the email is a recommendation.
+   For example use the following format for the subject field
+
+~~~~
+Subject: [recommendation] Letter of recommendation for Albert Einstein
+~~~~
+
 ## I am a foreign national. How do I apply?
 
 The procedure is same as for Indian national --- check the
