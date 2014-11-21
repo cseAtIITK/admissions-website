@@ -124,7 +124,7 @@ For M.Tech/M.E students:
      places which offer this, like BITS Pilani. If you have doubts
      about whether your postgraduate degree is recognized, please
      contact (admissions at cse.iitk.ac.in). The minimum requirements
-     are given in Section 2. of the [PG Manual].
+     are given in Section 2 of the [PG Manual].
 
 For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
 :   For Ph. D students, we provide Ph.D scholarship against teaching
@@ -135,7 +135,7 @@ For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
     practically relevant. Unlike M.Tech admission, Ph.D. admission has
     **no cutoff** for [GATE] score. We will select candidates based on
     their performance in our admission test and interview. The exact
-    requirements are given in Section 2 of the PG manual, *here*.
+    requirements are given in Section 2 of the [PG manual].
 
 Direct admission for final year B.Tech students:
 
