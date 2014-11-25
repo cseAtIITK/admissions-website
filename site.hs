@@ -56,6 +56,10 @@ rules = do
     route idRoute
     compile copyFileCompiler
 
+  match "letters/*.pdf" $ do
+    route idRoute
+    compile copyFileCompiler
+
   match "images/*" $ do
     route idRoute
     compile copyFileCompiler
