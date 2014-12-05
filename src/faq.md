@@ -180,11 +180,15 @@ Ada:
 In the future, we might change the process. Please keep an eye on the
 announcements section of our main page.
 
-## What is the syllabus for the test/interview for Ph.D candidates?
+## What is the syllabus/format for the test/interview for Ph.D candidates?
 
-The test has the same syllabus as that of [GATE]. Besides asking
-questions in greater depth, the interview panel will also ask specific
-questions based on the area that you want to work on, for your Ph.D.
+We use the test to screen the short listed candidates.  The test has
+the same syllabus as that of [GATE] and involves basics in computer
+science and aptitude. Although the interview is also based on the same
+syllabus, we would like to gauge the depth of understanding of the
+candidate. Often, you would be asked questions in specific topics
+which *you* are comfortable with or in areas that you want to work on
+for your Ph. D.
 
 ## Is there a fixed number of candidates who will be selected?
 
