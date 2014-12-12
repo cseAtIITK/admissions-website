@@ -4,7 +4,7 @@ atom: /atom.xml
 jumbotron: yes
 ---
 
-
+<!--
 <div class="alert alert-danger">
 
 **Important:** Ph. D admissions for December 2014 are on. Checkout the
@@ -14,6 +14,8 @@ jumbotron: yes
 [announcement][direct-phd].
 
 </div>
+
+-->
 
 Welcome to the admissions webpage. The
 [department of Computer Science and Engineering][cse] at
