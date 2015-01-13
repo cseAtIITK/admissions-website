@@ -150,7 +150,7 @@ In general, you should apply in December *only if* you can/are willing
 to join IIT Kanpur in the winter semester, i.e. the semester that
 starts immediately in January. However, if you are a final year B.Tech
 student from one of the [CFTI]s and want to apply to us via the
-[Direct admission][direct-phd] scheme then consider applying in the
+[Direct admission][direct-phd] scheme, then consider applying in the
 month of December itself *even though* you can join only in the
 subsequent summer.
 
@@ -179,6 +179,12 @@ Ada:
 
 In the future, we might change the process. Please keep an eye on the
 announcements section of our main page.
+
+## I am eligible for direct admission to PhD. However, I missed the December admissions. What should I do?
+
+Please apply in the May session. The December admission for candidates
+eligible for [direct admissions][direct-phd] is an enabler, and it
+*does not* preclude you from applying in May.
 
 ## What is the syllabus/format for the test/interview for Ph.D candidates?
 
