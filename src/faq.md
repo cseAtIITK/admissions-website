@@ -50,6 +50,24 @@ The procedure is same as for Indian national --- check the
 [notices][doaa]. You can however ignore the last dates mentioned
 there.
 
+## I would like to do an M.Tech/Ph.D as a sponsored candidate. What do I need?
+
+The requirements can be summarised as follows (Details check the
+[pg manual])
+
+1. At least 2 years of experience with the current employer.
+
+2. A written letter from your employer agreeing to relieve you for the
+   duration of your stay at IIT Kanpur.
+
+3. You need a written letter from your employer agreeing to **sponsor
+   you** by providing you *full salary* during your period of
+   study. This is very important, and we will not consider
+   applications without this.
+
+Candidates will have to still pass the test/interview at IITK. Only
+the [GATE] requirement is waived for sponsored candidates.
+
 ## When are the tests/interviews?
 
 M.Tech admissions:
@@ -202,22 +220,6 @@ No. We will select all able candidates. What we are looking for are
 competent, motivated students who are highly likely to succeed our Ph.D
 programme.
 
-## What do I need to apply as a sponsored candidate?
-
-The requirements can be summarised as follows (Details check the
-[pg manual])
-
-1. At least 2 years of experience with the current employer
-
-2. A written letter from your employer agreeing to relieve you for the
-   duration of your Ph.D.
-
-3. You need a written letter from your employer agreeing to **sponsor
-   your Ph.D**. This is very important, and we will not consider
-   applications without this.
-
-Candidates will have to still pass the test/interview at IITK. Only
-the [GATE] requirement is waived for sponsored candidates.
 
 ## Can I do a part-time Ph.D?
 
