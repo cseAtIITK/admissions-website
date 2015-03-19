@@ -228,7 +228,7 @@ getYear = takeWhile (/= '-') . takeFileName . toFilePath
 
 -- | Sorting year tags with
 sortYear :: (String,a) -> (String, a) -> Ordering
-sortYear (y,_) (y',_) = compare (read y :: Int) $ read y'
+sortYear (y',_) (y,_) = compare (read y :: Int) $ read y'
 
 yearTagsCompiler :: Tags -> Compiler [Item String]
 yearTagsCompiler tags =
