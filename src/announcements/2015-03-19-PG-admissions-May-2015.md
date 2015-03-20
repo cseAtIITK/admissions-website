@@ -24,7 +24,7 @@ process is the following
 > Indian Institute of Technology Kanpur,\
 > Kanpur, UP, 208016.
 
-The [online portal] for filling the application will be up from *May
+The [online portal] for filling the application will be up from *March
 19, 2015* to *April 15, 2015*. After completion of the online form,
 make sure that your printed application reaches us by *April 20,
 2015*.  Note that if you are applying under any of the reserved
@@ -62,7 +62,7 @@ The test and interviews are scheduled for May 9th and 10th, 2015 with
 the screening test starting at 9:00 am on May 9th. The interviews can
 go on till late night on May 10th so be prepared to be at the campus
 for the whole time. This is also the *right time* to book your
-tickets. See our [travel page][/travel] for details on reaching here.
+tickets. See our [travel page](/travel) for details on reaching here.
 
 
 #### Important dates.
