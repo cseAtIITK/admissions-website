@@ -23,8 +23,8 @@ graduation CPI of at least 7.5.
 
 Candidates admitted through this route will get a teaching
 assistantship as per rules, which for B. Tech graduates directly
-admitted to PhD is Rs 16,000/- per month for the first two years which
-increases to Rs 18,000/- per month thereafter.
+admitted to PhD is ~~₹ 16,000/- per month~~  ₹ 25,000/- per month for the first two years which
+increases to ~~₹ 18,000/- per month~~ ₹ 28,000/- per month thereafter.
 
 For more details please refer to Section 2 of the [PG manual]
 
