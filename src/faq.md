@@ -157,7 +157,7 @@ For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
 
 Direct admission for final year B.Tech students:
 
-:   Recently M.H.R.D approved teaching assistantship for admission of
+:   Recently [M.H.R.D][mhrd] approved teaching assistantship for admission of
     final year B.Tech students from any of the [CFTI]s. These
     candidates *need not* have a valid GATE score. For details consult
     the [announcement on our homepage][direct-phd]
@@ -305,3 +305,4 @@ blankets etc. Kanpur can get quite cold during the month of December.
 [travel]: </travel> "Reaching IIT Kanpur"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
 [cfti]: <http://mhrd.gov.in/technical-education-1>
+[mhrd]: <http://mhrd.gov.in/>
