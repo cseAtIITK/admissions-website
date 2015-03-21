@@ -1,0 +1,21 @@
+---
+title: Hike in fellowships.
+---
+
+Good news, we will be paying you more *soon*.
+
+<!--more-->
+
+[MHRD] has revised the fellowships of M.Tech and Ph.D students. The
+new fellowships are as follows:
+
+Ph.D Fellows:
+:   If you join after a Masters you will be getting ₹ 28,000 per
+    month. Candidates who join directly after a B.Tech/BE will get ₹
+    25,000/- to start with. This will increase to ₹ 28,000 per month
+    at the end of two years.
+
+M.Tech/Fifth year B.Tech-M.Tech Dual degree:
+:   The revised scholarship is ₹ 12,400 per month.
+
+[mhrd]: <http://mhrd.gov.in/>
