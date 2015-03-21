@@ -10,7 +10,7 @@ jumbotron: yes
   (Ph. D and M.Tech) are on.
 
 
-**GATE wavier:** Final year students from [CFTI]s are eligible. See the
+**GATE waiver:** Final year students from [CFTI]s are eligible. See the
 [announcement][direct-phd].
 
 </div>
