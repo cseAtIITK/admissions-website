@@ -167,6 +167,13 @@ Direct admission for final year B.Tech students:
     provisional admissions confirmed. For details consult the
     [announcement on our homepage][direct-phd].
 
+
+## I am eligible for direct admission to PhD. However, I missed the December admissions. What should I do?
+
+Please apply in the May session. The December admission for candidates
+eligible for [direct admissions][direct-phd] is an enabler, and it
+*does not* preclude you from applying in May.
+
 ## Should I apply in December or in May?
 
 In general, you should apply in December *only if* you can/are willing
@@ -213,12 +220,6 @@ Bhaskara:
 
 In the future, we might change the process. Please keep an eye on the
 announcements section of our main page.
-
-## I am eligible for direct admission to PhD. However, I missed the December admissions. What should I do?
-
-Please apply in the May session. The December admission for candidates
-eligible for [direct admissions][direct-phd] is an enabler, and it
-*does not* preclude you from applying in May.
 
 ## What is the syllabus/format for the test/interview for Ph.D candidates?
 
