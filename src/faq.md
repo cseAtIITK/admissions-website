@@ -189,14 +189,14 @@ Alan:
 :   Already has an M.Tech degree and is fixing COBOL bugs in an
     outsourcing company. He is fed up with his job and fondly
     remembers the time he spent breaking the encryption scheme behind
-    the enigma machine. We recommend him applying for the December
-    2014 admissions session so that he can join us *tout
-    suite* (semester starting end December).
+    the [enigma] machine. We recommend him applying for the December
+    2014 admissions session so that he can join us *tout suite*
+    (semester starting end December).
 
 Ada:
 :   She is a final year B.Tech student at a [CFTI] and will finish
     her UG program some time in May 2015. Her dream is to work on the
-    programming aspects of the recently proposed Analytic Engine. We
+    programming aspects of the recently proposed [Analytic Engine]. We
     recommend her applying in December. She can then join us in the
     summer of 2015.
 
@@ -314,6 +314,8 @@ We will arrange the accommodation for you.
 For the test/interviews held during winter consider bringing warm clothes,
 blankets etc. Kanpur can get quite cold during the month of December.
 
+[analytic engine]: <http://en.wikipedia.org/wiki/Analytical_Engine> "The Analytic Engine of Babbage"
+[enigma]: <http://en.wikipedia.org/wiki/Enigma_machine> "The Enigma machine"
 [pells]: <http://en.wikipedia.org/wiki/Pell%27s_equation> "Pells equation"
 [chakravala]: <http://en.wikipedia.org/wiki/Chakravala_method> "Chakravala method"
 [GATE]: <http://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering>
