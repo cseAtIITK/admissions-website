@@ -177,7 +177,7 @@ student from one of the [CFTI]s and want to apply to us via the
 month of December itself *even though* you can join only in the
 subsequent summer.
 
-To illustrate, here are three examples (we are currently in Oct of
+To illustrate, here are four examples (we are currently in Oct of
 2014)
 
 Donald:
@@ -199,6 +199,17 @@ Ada:
     programming aspects of the recently proposed Analytic Engine. We
     recommend her applying in December. She can then join us in the
     summer of 2015.
+
+Bhaskara:
+:   He is a final year B.Tech student at a [CFTI] and will finish his UG
+    program some time in May 2015. Ever since he has been working on
+    perfecting the [chakravala] method, he has been forgetful about
+    deadlines and has missed the December admission process. We
+    recommend him applying in the next summer (sometime in May 2015). He
+    can avail the direct admission clause for the summer admissions as well.
+    Next time be more careful about deadlines otherwise your work will
+    be know by [other peoples names][pells].
+
 
 In the future, we might change the process. Please keep an eye on the
 announcements section of our main page.
@@ -303,7 +314,8 @@ We will arrange the accommodation for you.
 For the test/interviews held during winter consider bringing warm clothes,
 blankets etc. Kanpur can get quite cold during the month of December.
 
-
+[pells]: <http://en.wikipedia.org/wiki/Pell%27s_equation> "Pells equation"
+[chakravala]: <http://en.wikipedia.org/wiki/Chakravala_method> "Chakravala method"
 [GATE]: <http://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering>
 [PG manual]: <http://www.iitk.ac.in/doaa/PG%20Manual%20Final.pdf> "PG Manual"
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
