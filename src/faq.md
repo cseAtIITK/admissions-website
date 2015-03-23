@@ -157,10 +157,15 @@ For B.Tech, M.C.A. and M.Sc. Computer Science students (general):
 
 Direct admission for final year B.Tech students:
 
-:   Recently [M.H.R.D][mhrd] approved teaching assistantship for admission of
-    final year B.Tech students from any of the [CFTI]s. These
-    candidates *need not* have a valid GATE score. For details consult
-    the [announcement on our homepage][direct-phd]
+:   Recently [M.H.R.D][mhrd] approved teaching assistantship for
+    admission of final year B.Tech students from any of the
+    [CFTI]s. These candidates *need not* have a valid GATE score.  You
+    can apply to us either in the summer (usually some time in May) or
+    in winter (usually in December). Once you have cleared our written
+    test and interview you will be given a provisional admission.  You
+    will need a CPI of 7.5 at the time of qualifying to get this
+    provisional admissions confirmed. For details consult the
+    [announcement on our homepage][direct-phd].
 
 ## Should I apply in December or in May?
 
