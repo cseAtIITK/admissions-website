@@ -24,6 +24,9 @@ process is the following
 > Indian Institute of Technology Kanpur,\
 > Kanpur, UP, 208016.
 
+For more details on the online application process please check the
+[institute wide page on admissions][institute-page].
+
 The [online portal] for filling the application will be up from *March
 19, 2015* to *April 15, 2015*. After completion of the online form,
 make sure that your printed application reaches us by *April 20,
@@ -83,7 +86,7 @@ and the institute [PG manual] before mailing us at
 Best of luck for your application. We hope to see you on our
 [beautiful campus][campus] soon.
 
-
+[institute-page]: <http://www.iitk.ac.in/doaa/DOAA/admission2015_1.htm> "Institute admissions page" 
 [online application form]: <http://oag.iitk.ac.in:8181/Oa/Jsp/NewPg_admit/pgonline/pg_main.jsp>
 [online portal]: <http://oag.iitk.ac.in:8181/Oa/Jsp/NewPg_admit/pgonline/pg_main.jsp>
 [may2015]: <http://www.iitk.ac.in/doaa/DOAA/admission2015_1.htm> "Institute website for admissions"
