@@ -53,6 +53,17 @@ performance in the qualifying exam, we will
 2. Of the remaining, short list a few candidates for test and
    interview.
 
+The last years cutoffs (2014, Summer admissions) for short listing
+were as follows:
+
+- **General:** 730
+- **OBC:** 640
+- **SC:** 455
+- **ST/PD:** 250
+
+These numbers are given only to give you a rough idea of cutoff
+boundaries and might vary this year.
+
 [GATE] requirement for M.Tech candidates can be waived only for
 sponsored candidates. Please check our [FAQs] and [PG manual] for
 details on sponsored candidates.
