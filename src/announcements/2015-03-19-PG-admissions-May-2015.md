@@ -34,6 +34,14 @@ make sure that your printed application reaches us by *April 20,
 categories, you need to complete the relevant forms as well and send
 it to us.
 
+### Trouble with online portal ?
+
+The online portal is run by the office automation group. Some
+candidates have reported that they are having trouble connecting.
+Please contact <oaadmin@iitk.ac.in> if you have trouble. Please
+mention that you are a candidate applying to the Department of
+Computer Science and Engineering and they would help you through.
+
 ### Test and Interviews.
 
 Any candidate who wishes to join our M.Tech program *should* have a
