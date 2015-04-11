@@ -28,9 +28,13 @@ maxAnnouncements = 10
 
 -- The version of the twitter bootstrap that is used. When you use a
 -- new version, make sure to change this.
-
 bootstrapVersion :: Version
 bootstrapVersion = Version [3, 2, 0] []
+
+-- The version of font awesome that is used. When you use a new
+-- version, make sure to change this.
+fontAwesomeVersion :: Version
+fontAwesomeVersion = Version [4, 3, 0] []
 
 -- The configuration of feeds.
 feedConfig :: FeedConfiguration
@@ -48,11 +52,20 @@ bootstrapPat :: Pattern
 bootstrapPat = fromString $  "bootstrap-"
                           ++  showVersion bootstrapVersion
                           </> "**"
+fontAwesomePat :: Pattern
+fontAwesomePat = fromString $ "font-awesome-"
+                            ++ showVersion fontAwesomeVersion
+                            </> "**"
 
 rules :: Rules ()
 rules = do
   -- Get the bootstrap stuff on.
   match bootstrapPat $ do
+    route idRoute
+    compile copyFileCompiler
+
+  -- Font Awesome stuff
+  match fontAwesomePat $ do
     route idRoute
     compile copyFileCompiler
 
