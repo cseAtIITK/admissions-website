@@ -44,12 +44,11 @@ should consider joining our department is
 <br/>
 
 
-## Announcements
-
-<hr/>
 
 $partial("templates/main-page-announcements.html")$
 
+<div class="text-left"><i class="fa fa-copyright"></i><small>[Dept. Computer Sci. and Engg][cse]</small>
+</div>
 
 [ann]: </announcements.html> "Read all $announcecount$"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
@@ -59,3 +58,4 @@ $partial("templates/main-page-announcements.html")$
 [iitk]: <http://www.iitk.ac.in/>
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
 [cfti]: <http://mhrd.gov.in/technical-education-1>
+
