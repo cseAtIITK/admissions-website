@@ -10,6 +10,7 @@ import Hakyll
 import System.Environment
 import System.FilePath
 import Text.Pandoc
+import Text.HTML.TagSoup
 
 ------------- Configuration  ---------------------------------
 
@@ -135,6 +136,22 @@ cleanUrl = return . fmap (withUrls rmIndex)
             (dir, "index.html") -> dir
             _                   -> url
 
+-- | Add some bootstrap classes to the tables.
+styleTable :: Item String -> Compiler (Item String)
+styleTable = return . fmap (withTags mapper)
+  where mapper (TagOpen "table" attrs) = TagOpen "table"
+                                       $ extraAttr : attrs
+        mapper x                       = x
+        extraAttr = ("class", tableClasses)
+        tableClasses = unwords [ "table"
+                               , "table-striped"
+                               , "table-hover"
+                               , "table-bordered"
+                               , "table-condensed"
+                               ]
+        
+
+
 
 defaultTemplates :: [Identifier]
 defaultTemplates = [ "templates/layout.html"
@@ -163,7 +180,7 @@ pandocWith reader writer = return . reader >=> return . writer
 
 postPandoc :: Context String -> Pipeline String String
 postPandoc cxt = applyTemplates cxt defaultTemplates
-                 >=> cleanUrl >=> relativizeUrls
+                 >=> styleTable >=> cleanUrl >=> relativizeUrls
 
 applyTemplates :: Context String
                -> [Identifier]
