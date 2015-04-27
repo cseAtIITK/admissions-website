@@ -59,6 +59,12 @@ not for anyone accompanying him/her.
 
 ## Shortlist for screening test/interview.
 
+The cut-offs for M.Tech admissions this year are the following.
+
+- **General:** 721
+- **OBC:** 649
+- **SC/ST/PD:** 481
+
 Here is the shortlist of candidates called for test and interviews.
 
 <div class="panel panel-default">
