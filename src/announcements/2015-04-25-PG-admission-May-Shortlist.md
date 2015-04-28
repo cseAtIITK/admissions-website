@@ -424,6 +424,7 @@ Here is the shortlist of candidates called for test and interviews.
 | CSE-3447           | Rahul                              |
 | CSE-13567          | Rahul                              |
 | CSE-2836           | Rahul Das                          |
+| CSE-3200           | Rahul Jain                         |
 | CSE-3953           | Rahul Kala                         |
 | CSE-2819           | Rahul Kumar                        |
 | CSE-3183           | Rahul Kushwah                      |
