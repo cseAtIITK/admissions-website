@@ -67,6 +67,10 @@ The cut-offs for M.Tech admissions this year are the following.
 
 Here is the shortlist of candidates called for test and interviews.
 
+Note: Candidates whose entry has been struck-off have incomplete
+application form and hence their call for screening test/interview has
+been cancelled.
+
 <div class="panel panel-default">
 
 <div class="panel-heading">Short listed candidates (M.Tech)</div>
@@ -128,7 +132,7 @@ Here is the shortlist of candidates called for test and interviews.
 | CSE-3493           | Ankita Gautam                      |
 | CSE-8821           | Ankita Jain                        |
 | CSE-3644           | Ankita Rani                        |
-| CSE-7252           | Ankita Sharma                      |
+| ~~CSE-7252~~       | ~~Ankita Sharma~~                  |
 | CSE-6459           | Ankur                              |
 | CSE-1317           | Ankur Anand                        |
 | CSE-6421           | Annie Rajoria                      |
@@ -265,7 +269,7 @@ Here is the shortlist of candidates called for test and interviews.
 | CSE-3241           | Joglekar Kaustubh Kiran            |
 | CSE-3520           | Joshi Archit Pradeep               |
 | CSE-13539          | Jyoti Jinger                       |
-| CSE-10631          | Jyoti Sharma                       |
+| ~~CSE-10631~~      | ~~Jyoti Sharma~~                   |
 | CSE-1080           | Kalangutkar Vinanti Dattratray     |
 | CSE-7029           | Kalyani Roy                        |
 | CSE-9442           | Kamlesh Nayak                      |
@@ -370,7 +374,7 @@ Here is the shortlist of candidates called for test and interviews.
 | CSE-10063          | Philips George John                |
 | CSE-827            | Pinky Budania                      |
 | CSE-6654           | Piyush Balwani                     |
-| CSE-3074           | Piyush Gopaldas Panpaliya          |
+| ~~CSE-3074~~       | ~~Piyush Gopaldas Panpaliya~~      |
 | CSE-5471           | Piyush Kumar                       |
 | CSE-772            | Pooja Suresh Kokane                |
 | CSE-514            | Poonam Kashyap                     |
@@ -406,7 +410,7 @@ Here is the shortlist of candidates called for test and interviews.
 | CSE-8998           | Preksha Nema                       |
 | CSE-3207           | Premdeep Kumar                     |
 | CSE-2214           | Prerna Agarwal                     |
-| CSE-12296          | Priya Dadlani                      |
+| ~~CSE-12296~~      | ~~Priya Dadlani~~                  |
 | CSE-3911           | Priya Gupta                        |
 | CSE-5076           | Priya Shree                        |
 | CSE-1887           | Priya Shree                        |
