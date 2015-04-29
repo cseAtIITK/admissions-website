@@ -641,8 +641,10 @@ been cancelled.
 | CSE-11341          | Anand Kumar Sharma        |
 | CSE-10379          | Anjali Pawar              |
 | CSE-7430           | Ankur Gupta               |
+| CSE-7521           | Anneswa Ghosh             |
 | CSE-9110           | Anoop Kumar Sonkar        |
 | CSE-7568           | Antriksh Goswami          |
+| CSE-4927           | Anubhab Baksi             |
 | CSE-6132           | Anvita Srivastava         |
 | CSE-8107           | Arghya Pal                |
 | CSE-6767           | Arinjita Paul             |
@@ -650,7 +652,9 @@ been cancelled.
 | CSE-3097           | Arpit Bansal              |
 | CSE-7676           | Arun P V                  |
 | CSE-3667           | Ashwini Kumar Chaudhary   |
+| CSE-8298           | Atreyee Khan              |
 | CSE-4257           | Atul Raj                  |
+| CSE-4443           | Ayushi Khandelwal         |
 | CSE-8391           | Basharat Ahmad Bhat       |
 | CSE-8532           | Bharti Kamlesh Kanoje     |
 | CSE-13162          | Brajesh Kumar             |
@@ -675,6 +679,7 @@ been cancelled.
 | CSE-8350           | Govind R                  |
 | CSE-947            | Hargeet Kaur              |
 | CSE-4561           | Ingle Amar Samadhan       |
+| CSE-1992           | Iqra Altaf Gillani        |
 | CSE-13626          | Jatin                     |
 | CSE-9731           | Jaya Gupta                |
 | CSE-3764           | Jitendra Kurmi            |
@@ -702,6 +707,7 @@ been cancelled.
 | CSE-2307           | Mudit Kumar               |
 | CSE-11246          | Muktikanta Sa             |
 | CSE-11174          | Muukesh Sakle             |
+| CSE-12527          | Nailah Afshan             |
 | CSE-13916          | Narasimhanaik Banavath    |
 | CSE-9518           | Naveen Saini              |
 | CSE-2065           | Neha Agrawal              |
@@ -740,6 +746,7 @@ been cancelled.
 | CSE-7549           | Sagar Verma               |
 | CSE-10432          | Sakshi Varshney           |
 | CSE-11424          | Sandhya                   |
+| CSE-13813          | Sanjukta                  |
 | CSE-10989          | Santosh Kumar             |
 | CSE-11621          | Santosh Kumar Sahu        |
 | CSE-5494           | Sarvesh Kumar             |
@@ -750,16 +757,19 @@ been cancelled.
 | CSE-10306          | Sharmili N                |
 | CSE-6491           | Shashi Raj                |
 | CSE-8002           | Sheel Sindhu Manohar      |
+| CSE-2264           | Shion Samadder Chaudhury  |
 | CSE-3333           | Shivangi Nigam            |
 | CSE-11425          | Shrimann Upadhyay         |
 | CSE-5602           | Shubham Goel              |
 | CSE-6838           | Shwet Ketu                |
+| CSE-8793           | Shweta Makhija            |
 | CSE-13072          | Sidharth Sharma           |
 | CSE-10235          | Sonu Lamba                |
 | CSE-10810          | Soumava Kumar Roy         |
 | CSE-8797           | Sridhar S                 |
 | CSE-9794           | Srijan Das                |
 | CSE-13248          | Sriniwas Pandey           |
+| CSE-11057          | Subhranshu Kumar          |
 | CSE-8367           | Sulabh Katiyar            |
 | CSE-7884           | Suman Banerjee            |
 | CSE-9075           | Suman Mahapatra           |
@@ -771,6 +781,7 @@ been cancelled.
 | CSE-13418          | Umang Sharma              |
 | CSE-7380           | Vandana Kushwaha          |
 | CSE-11118          | Vikash                    |
+| CSE-11197          | Vimal Raj Sharma          |
 | CSE-10533          | Vimalkumar                |
 | CSE-7696           | Vineeta Jain              |
 | CSE-3020           | Vipina K K                |
@@ -779,6 +790,7 @@ been cancelled.
 | CSE-10433          | Yedhu Sastri              |
 | CSE-12208          | Yogesh Singh              |
 | CSE-12536          | Ziaul Hasan               |
+
 
 
 </div>
