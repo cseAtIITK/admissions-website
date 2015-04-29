@@ -28,14 +28,16 @@ Venue:
 The following documents in original are needed at the time of you
 test/interview.
 
-1. Degree certificate
+1. Degree certificate: For students who are in their final year and have
+   not yet got the degree certificate, please bring all your grade cards
+   and provisional certificate if any.
 
 2. Date of birth
 
 3. SC/ST/OBC/ certificates if applicable. 
 
 4. Photo identity cards (passport, pan-card, adhar-card, driving
-   license etc)
+   license etc).
 
 NOTE: The photo identity card is a must and we will not allow
 candidates without a valid id card to appear for the screening test.
