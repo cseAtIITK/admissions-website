@@ -50,11 +50,10 @@ prominently at the venue of the examination.
 
 ### Accommodation
 
-
-For outstation candidates, we have arranged in-campus
-accommodation. On arrival to the campus please report to Hall of
-Residence 2 (for men) and GH-Towers (for women). You will have to pay
-₹ 30/- per night for the accommodation.
+For outstation candidates, we have arranged in-campus accommodation
+starting from 8th evening till 10th night. On arrival to the campus
+please report to Hall of Residence 2 (for men) and GH-Towers (for
+women). You will have to pay ₹ 30/- per night for the accommodation.
 
 NOTE: The accommodation that we provide is only for the candidate and
 not for anyone accompanying him/her.
