@@ -66,7 +66,23 @@ The cut-offs for M.Tech admissions this year are the following.
 - **OBC:** 649
 - **SC/ST/PD:** 481
 
-Here is the shortlist of candidates called for test and interviews.
+
+
+The Ph.D cut-offs are a bit more complicated because we have both
+Masters and Bachelors students applying. It goes along this line
+
+Bachelors:
+:   You need to be GATE qualified (necessary condidtion) and have a CPI
+    of at least 8 (our cut-off). MCA and M.Sc's are treated as
+    Bachelors for this process.
+
+Masters:
+:   You either have a GATE score of at-least 614 or a CPI of 8.
+
+
+Here is the shortlist of candidates called for test and
+interviews. Note that this is a combined list for all category
+arranged in alphabetic order.
 
 Note: Candidates whose entry has been struck-off have incomplete
 application form and hence their call for screening test/interview has
