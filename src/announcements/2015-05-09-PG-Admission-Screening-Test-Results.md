@@ -6,11 +6,54 @@ The results of the screening test is now available.
 
 <!--more-->
 
+# PhD
+
+
+The cut-offs for Ph.D candidates are as follows.
+
+*  **General:**        41
+* **OBC:**            36
+* **SC/ST:**          23
+
+
+
+### Phd Candidates called for interview.
+
+
+| name                    | rollNo | appNo     |
+|-------------------------+--------+-----------|
+| Anoop Kumar Sonkar      | PH018  | CSE-9110  |
+| Mahendra Gupta          | PH072  | CSE-8562  |
+| Nikhil Gupta            | PH087  | CSE-8093  |
+| Patchigolla V S S Rahul | PH089  | CSE-5321  |
+| Prabuddha Chakraborty   | PH092  | CSE-6995  |
+| Pranav Bisht            | PH094  | CSE-6575  |
+| Sumitro Bhaumik         | PH150  | CSE-14142 |
+| Yogesh Singh            | PH165  | CSE-12208 |
+
+
 ## M.Tech
 
 Few candidates who have done exceptionally well in our test have been
 given direct offers. From the rest we have shortlisted few for
 interview. Here are the lists.
+
+The cut-offs are as follows
+
+### For Direct admission after test
+
+* **General:**  51
+* **OBC:**     46
+* **SC/ST:**   34
+
+
+### For Interviews
+
+
+* **General:**  42
+* **OBC:**      38
+* **SC/ST:**    25
+
 
 ### M.Tech Direct offers.
 
@@ -89,22 +132,3 @@ interview. Here are the lists.
 | Venkatnarayan              | MT498   | CSE-577            |
 | Yogesh Singh               | MT530   | CSE-434            |
 | Yuvraj Verma               | MT531   | CSE-4570           |
-
-
-  
-
-# Phd Candidates called for interview.
-
-
-| name                    | rollNo | appNo     |
-|-------------------------+--------+-----------|
-| Anoop Kumar Sonkar      | PH018  | CSE-9110  |
-| Mahendra Gupta          | PH072  | CSE-8562  |
-| Nikhil Gupta            | PH087  | CSE-8093  |
-| Patchigolla V S S Rahul | PH089  | CSE-5321  |
-| Prabuddha Chakraborty   | PH092  | CSE-6995  |
-| Pranav Bisht            | PH094  | CSE-6575  |
-| Sumitro Bhaumik         | PH150  | CSE-14142 |
-| Yogesh Singh            | PH165  | CSE-12208 |
-
-
