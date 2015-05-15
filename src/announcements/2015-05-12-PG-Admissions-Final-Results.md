@@ -9,7 +9,7 @@ this season.
 
 ## Ph.D 
 
-We decided not to take any Ph.D students this time.
+We did not find any suitable Ph.D candidates this time.
 
 ## M.Tech
 
