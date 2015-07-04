@@ -3,6 +3,7 @@ title: Home
 atom: /atom.xml
 jumbotron: yes
 ---
+<!--
 
 <div class="alert alert-danger">
 
@@ -15,6 +16,7 @@ jumbotron: yes
 
 </div>
 
+-->
 
 Welcome to the admissions webpage. The
 [department of Computer Science and Engineering][cse] at
