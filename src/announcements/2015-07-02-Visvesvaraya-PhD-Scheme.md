@@ -23,7 +23,10 @@ the following:
 
 2. A contingency of ₹ 30,000/- per year,
 
-3. Grants for up to two international conference/workshops,
+3. Grants for up to two international conference/workshops. Note that
+   this is *over and above* the travel grants that we give to all our
+   Ph.D students via other sources in the department and the
+   institute.
 
 4. One time infrastructure building funds of up to ₹ 5,00,000/- per student.
 
