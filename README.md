@@ -9,7 +9,11 @@ of Technology, Kanpur.
 This is a static website generated using [Hakyll]. Any version >=4.5
 should be okey for this. Besides you will need `GNU make` and `git` if
 you want to contribute back. The pre-built packages available in
-Debian stable (jessie) is enough of building the site.
+Debian stable (jessie) is enough of building the site. To install use
+
+```bash
+$ sudo apt-get install hakyll
+```
 
 The website is styled using [bootstrap version 3.2.0][bootstrap] for
 css and font-awesome for some iconic fonts. These are include in the
