@@ -11,7 +11,7 @@ The scheme is available only for Ph.D candidates in the broad areas of *Electron
 [Visvesvaraya Ph.D scheme][vishy-scheme]
 
 Salary and Benefits
-===================
+-------------------
 
 Some of the highlights of this scheme are the following:
 
@@ -28,7 +28,7 @@ Some of the highlights of this scheme are the following:
 This is an attractive scheme and we would like to get motivated and committed Ph.D candidates. Interested candidates are requested to apply soon as this scheme is only available to students who join the Ph.D program in the calender year 2015 (i.e. no later than December 2015). Details on application procedure are given below.
 
 Eligibility
-===========
+-----------
 Applicants should either be
 
 1. Final year B.Tech (or equivalent degree) students of Centrally funded Technical Institutes, or
@@ -38,10 +38,11 @@ Applicants should either be
 Students finishing all requirements of their qualifying degree by December 15, 2015 are also eligible to apply.
 
 How to Apply
-============
+------------
 Interested students are requested to send their CV and a one-page statement of research interests to [isaha@iitk.ac.in](mailto:isaha@iitk.ac.in).
 
 Please include the following information at the minimum in your CV.
+
 1. Name, postal address, contact email, contact phone number.
 2. UG institution/University, GPA, graduation year (or expected graduation year).
 3. Masters institution/University, GPA, graduation year (or expected graduation year), if applicable.
