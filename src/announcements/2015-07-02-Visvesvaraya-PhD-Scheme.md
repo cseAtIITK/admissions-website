@@ -39,7 +39,11 @@ Students finishing all requirements of their qualifying degree by December 15, 2
 
 How to Apply
 ------------
-Interested students are requested to send their CV and a one-page statement of research interests to [isaha@iitk.ac.in](mailto:isaha@iitk.ac.in).
+
+Interested students are requested to send their CV and a one-page
+statement of research interests (in *[pdf]*), to
+[admissions@cse.iitk.ac.in](mailto:admissions@cse.iitk.ac.in) with a
+subject `[Visvesvaraya] Application of YourName`
 
 Please include the following information at the minimum in your CV.
 
@@ -50,7 +54,9 @@ Please include the following information at the minimum in your CV.
 5. Contact details of three references.
 6. Gate score and year, if available.
 
+
 Original transcripts would have to be produced during the interview for verification.
 
 [deity]: <http://deity.gov.in/> "Department of Electronics and Information Technology (DEITY)"
 [vishy-scheme]: <http://phd.medialabasia.in/index.php> "Visvesvaraya Ph.D scheme"
+[pdf]: <https://en.wikipedia.org/wiki/Portable_Document_Format> "The PDF format on Wikipedia"
