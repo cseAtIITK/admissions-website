@@ -15,7 +15,7 @@ Salary and Benefits
 
 Some of the highlights of this scheme are the following:
 
-1. Enhanced Ph.D fellowship: ₹ 31,000/- per month for the first two years followed by ₹ 35,000/- for the next three years (these are recently revised amounts whereas the scheme [homepage][vishy-scheme] contains older fellowship amounts). In comparison, the normal Ph.D fellowship amount is ₹ 25,000/- per month.
+1. Enhanced Ph.D fellowship: The CSE department is offering an enhanced stipend of ₹ 31,000/- per month for the first two years followed by ₹ 35,000/- for the next three years. In comparison, the scheme, as advertised on its [homepage][vishy-scheme], currently offers ₹ 22500 and ₹ 25000 in the first two, and last three years respectively. However, these amounts are likely to be enhanced soon to match those offered by the CSE, IITK department.
 
 2. A contingency grant of ₹ 30,000/- per year.
 
