@@ -3,12 +3,11 @@ title: Home
 atom: /atom.xml
 jumbotron: yes
 ---
-<!--
 
 <div class="alert alert-danger">
 
-**Important:** [Post graduate admissions][may2015-ann] for May 2015
-  (Ph. D and M.Tech) are on.
+**Heads up:** [Post graduate admissions][dec2015-headsup] for December 2015 will be held on
+     *5th and 6th December*
 
 
 **GATE waiver:** Final year students from [CFTI]s are eligible. See the
@@ -16,7 +15,6 @@ jumbotron: yes
 
 </div>
 
--->
 
 Welcome to the admissions webpage. The
 [department of Computer Science and Engineering][cse] at
@@ -55,7 +53,7 @@ $partial("templates/main-page-announcements.html")$
 [ann]: </announcements.html> "Read all $announcecount$"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
 [dec2014]: <http://www.iitk.ac.in/doaa/DOAA/admission2014_2.htm>
-[may2015-ann]: </announcements/2015-03-19-PG-admissions-May-2015/>
+[dec2015-headsup]: </announcements/2015-09-10-Heads-up-Phd-admissions-December-2015>
 [cse]: <http://cse.iitk.ac.in/>
 [iitk]: <http://www.iitk.ac.in/>
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
