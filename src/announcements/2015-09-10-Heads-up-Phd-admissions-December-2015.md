@@ -3,7 +3,7 @@ title: Headsup: Ph. D admissions, December 2015
 ---
 
 Heads up: Ph. D admissions for the winter session will be on *5th and
-6th of December*. Please book your tickets. 
+6th of December*. Please book your tickets.
 <!--more-->
 
 The December round of Ph.D admissions are on. The test and interviews
@@ -24,7 +24,8 @@ will not entertain application toward our masters program. A candidate
 selected for this round is expected to join our Ph.D program in the
 winter semester itself. Besides, this time around, candidates
 interested in the application under the
-[Visvesvaraya scheme][vishy-sheme] should also apply.
+[Visvesvaraya scheme][vishy-sheme] should also apply (no separate
+application is required).
 
 
 Even if you are a final year B. Tech student in one of the C.F.T.Is,
