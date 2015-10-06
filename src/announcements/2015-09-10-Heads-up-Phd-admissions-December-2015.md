@@ -20,10 +20,11 @@ be up by the end of this month.
 ### Who can apply?
 
 As usual, winter admissions are for selecting Ph.D candidates and we
-will not entertain application toward our masters program. A candidate
-selected for this round is expected to join our Ph.D program in the
-winter semester itself. Besides, this time around, candidates
-interested in the application under the
+will not entertain application toward our masters program. This time
+around we will also admit sponsored candidates for the new [M.S.
+program][ms]. A candidate selected for this round is expected to join our
+Ph.D program in the winter semester itself. Besides, this time around,
+candidates interested in the application under the
 [Visvesvaraya scheme][vishy-sheme] should also apply (no separate
 application is required).
 
@@ -52,3 +53,4 @@ institute [PG manual].
 [travel]: </travel> "Reaching IIT Kanpur"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
 [vishy-sheme]: </announcements/2015-07-02-Visvesvaraya-PhD-Scheme>
+[ms]: </announcements/2015-10-06-The-M.S-Program>
