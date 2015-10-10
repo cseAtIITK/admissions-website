@@ -6,9 +6,9 @@ jumbotron: yes
 
 <div class="alert alert-danger">
 
-**Heads up:** [Post graduate admissions][dec2015-headsup] for December 2015 will be held on
-     *5th and 6th December*
-
+**Winter admissions:** [Post graduate admissions][winter-2015-announcement] for
+*December 2015 will be held on 5th and 6th December*. The [online application portal][portal]
+is up
 
 **GATE waiver:** Final year students from [CFTI]s are eligible. See the
 [announcement][direct-phd].
@@ -58,4 +58,5 @@ $partial("templates/main-page-announcements.html")$
 [iitk]: <http://www.iitk.ac.in/>
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
 [cfti]: <http://mhrd.gov.in/technical-education-1>
-
+[portal]: <http://admissions.cse.iitk.ac.in> "Online application portal"
+[winter-2015-announcement]: </announcements/2015-10-10-Winter-admissions-to-the-PG-program>
