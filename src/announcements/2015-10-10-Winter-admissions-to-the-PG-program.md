@@ -58,11 +58,12 @@ candidates) drawn in favour of **The Registrar, IIT Kanpur**.
 
 ### How to apply?
 
-You need apply only through our [admission portal]. The overall procedure
-is as follows.
+We accept only applications submitted through our online
+[admission portal]. The overall procedure is as follows.
 
-1. Register your email id. All communication will be through this email id
-   so make sure that this email is valid through out the admission process.
+1. Register your email id. All communication will be through this
+   email id so make sure that this email is valid through out the
+   admission process.
 
 2. Fill in the online form.
 
