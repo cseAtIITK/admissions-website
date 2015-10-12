@@ -7,22 +7,6 @@ warm up for the exciting days ahead.
 
 <!--more-->
 
-### How to apply?
-
-You need apply only through our [admission portal]. The overall procedure
-is as follows.
-
-1. Register your email id. All communication will be through this email id
-   so make sure that this email is valid through out the admission process.
-
-2. Fill in the online form.
-
-3. Upload scanned copies of necessary documents.
-
-4. Print the generated pdf application form (one page) and send a copy
-   to us together with the demand draft for the application fee. It is
-   a good idea to keep a copy of this pdf file safely with you.
-
 ### Who can apply?
 
 This winter we will only accept application for our Ph.D program and
@@ -37,8 +21,6 @@ Like last time, if you are a final year B.Tech student at one of the
 CFTI's then you can opt for a Direct admissions (i.e. with out GATE
 qualification). If selected, you can join our program starting
 June 2016. See the [previous announcement][direct-phd]
-
-Candidates interested in the 
 
 
 ### Documents required by the online admission site.
@@ -70,14 +52,32 @@ copies of the following document.
 8. If you are a sponsored candidate, then you also need to upload a
    letter of support from your employer.
 
-
-Once the application is complete and the necessary documents are
-uploaded, print the form and send it to us together with the necessary
-application fee.
-
 The application fee should be payed through a Demand Draft A demand
-draft of ₹ 400/- (₹ 200/- for SC/ST candidates) drawn in favour of
-**The Registrar, IIT Kanpur**.
+draft of ₹ 400/- (₹ 200/- for SC/ST and Physically handicapped
+candidates) drawn in favour of **The Registrar, IIT Kanpur**.
+
+### How to apply?
+
+You need apply only through our [admission portal]. The overall procedure
+is as follows.
+
+1. Register your email id. All communication will be through this email id
+   so make sure that this email is valid through out the admission process.
+
+2. Fill in the online form.
+
+3. Upload scanned copies of necessary documents.
+
+4. Print the generated pdf application form (one page) and send a copy
+   to us together with the demand draft for the application fee. It is
+   a good idea to keep a copy of this pdf file safely with you. The
+   address to send this form is
+
+> The Admission-in-charge,\
+> Department of Computer Science and Engineering,\
+> Indian Institute of Technology Kanpur,\
+> Kanpur, UP, 208016.
+
 
 ### Test and Interviews.
 
