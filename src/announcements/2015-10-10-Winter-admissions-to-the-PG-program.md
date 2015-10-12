@@ -29,12 +29,16 @@ This winter we will only accept application for our Ph.D program and
 our new M.S. program. If you have a masters degree and want to pursue
 Ph.D at IITK starting in the winter semester then you need to apply
 now. For our M.S. program we are only admitting sponsored candidates
-as of now.
+as of now. Candidates interested in the application under the
+[Visvesvaraya scheme][vishy-scheme] *should* also apply online (no
+separate application is required).
 
 Like last time, if you are a final year B.Tech student at one of the
 CFTI's then you can opt for a Direct admissions (i.e. with out GATE
 qualification). If selected, you can join our program starting
 June 2016. See the [previous announcement][direct-phd]
+
+Candidates interested in the 
 
 
 ### Documents required by the online admission site.
@@ -103,7 +107,7 @@ institute [PG manual].
 [direct-phd]: </announcements/2014-09-29-Direct-Admission-without-GATE/>
 [travel]: </travel> "Reaching IIT Kanpur"
 [doaa]: <http://www.iitk.ac.in/doaa/DOAA/admissions.html>
-
+[vishy-scheme]: </announcements/2015-07-02-Visvesvaraya-PhD-Scheme>
 
 
 
