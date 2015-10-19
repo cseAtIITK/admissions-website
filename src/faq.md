@@ -11,10 +11,11 @@ Absolutely, yes. See [why](/why/)
 
 ## How to apply?
 
-We have an [online application process] through which you will should
-apply. Once the necessary online forms are filled, you need to print
-the application form and send it to us together with the application
-fees (if applicable).
+We have an
+[online application process](http://admissions.cse.iitk.ac.in) through
+which you will should apply. Once the necessary online forms are
+filled, you need to print the application form and send it to us
+together with the application fees (if applicable).
 
 The address to send the completed application forms is
 
