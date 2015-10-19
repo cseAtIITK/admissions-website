@@ -13,9 +13,9 @@ Absolutely, yes. See [why](/why/)
 
 We have an
 [online application process](http://admissions.cse.iitk.ac.in) through
-which you will should apply. Once the necessary online forms are
-filled, you need to print the application form and send it to us
-together with the application fees (if applicable).
+which you should apply. Once the necessary online forms are filled,
+you need to print the application form and send it to us together with
+the application fees (if applicable).
 
 The address to send the completed application forms is
 
