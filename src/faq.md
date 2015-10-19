@@ -11,12 +11,14 @@ Absolutely, yes. See [why](/why/)
 
 ## How to apply?
 
-You can send your completed forms either by mail or you can chose to apply
-online. For details check the [admission notices][doaa].
+We have an [online application process] through which you will should
+apply. Once the necessary online forms are filled, you need to print
+the application form and send it to us together with the application
+fees (if applicable).
 
 The address to send the completed application forms is
 
-> The Convener DPGC,\
+> The Admission-in-charge,\
 > Department of Computer Science and Engineering,\
 > Indian Institute of Technology Kanpur,\
 > Kanpur, UP, 208016.
@@ -26,7 +28,7 @@ The address to send the completed application forms is
 The recommendation letters are supposed to be confidential. Please ask
 your referee to send the letters in a sealed envelope to.
 
-> The Convener DPGC,\
+> The Admission-in-charge,\
 > Department of Computer Science and Engineering,\
 > Indian Institute of Technology Kanpur,\
 > Kanpur, UP, 208016.
