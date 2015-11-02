@@ -23,13 +23,15 @@ Salary and Benefits
 
 Some of the highlights of this scheme are the following:
 
-1. Enhanced Ph.D fellowship: The CSE department is offering an
-   enhanced stipend of ₹ 31,000/- per month for the first two years
-   followed by ₹ 35,000/- for the next three years. In comparison, the
-   scheme, as advertised on its [homepage][vishy-scheme], currently
-   offers ₹ 22500 and ₹ 25000 in the first two, and last three years
-   respectively. However, these amounts are likely to be enhanced soon
-   to match those offered by us.
+1. Enhanced Ph.D fellowship: Phd fellowships under this scheme as
+   advertised on its [homepage][vishy-scheme] is currently ₹ 22500 per
+   month for the first two years followed by ₹ 25000 per
+   month. However, these amounts are likely to be enhanced to ₹
+   31,000/- per month and ₹ 35,000/- per month respectively. Till
+   such a revision takes place, students admitted through this scheme
+   will be paid a monthly fellowship of Rs. 25,000 for first two years
+   and Rs. 28,000 after two years at par with other agencies like
+   MHRD, DST etc.
 
 2. A contingency grant of ₹ 30,000/- per year.
 
