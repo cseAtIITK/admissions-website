@@ -52,9 +52,10 @@ copies of the following document.
 8. If you are a sponsored candidate, then you also need to upload a
    letter of support from your employer.
 
-The application fee should be payed through a Demand Draft A demand
+The application fee *should be* payed through a Demand Draft. A demand
 draft of ₹ 400/- (₹ 200/- for SC/ST and Physically handicapped
-candidates) drawn in favour of **The Registrar, IIT Kanpur**.
+candidates) drawn in favour of **The Registrar, IIT Kanpur**. As of
+now, we *do not* have options for online payment.
 
 ### How to apply?
 
