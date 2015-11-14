@@ -92,9 +92,9 @@ both the 5th and 6th of December.
 
 #### Important dates.
 
-- *November 15th, 2015:* Last date for filling the application forms online
+- *~~November 15th~~ November 17th, 2015:* Last date for filling the application forms online
 
-- *November 20th, 2015:* Last date for the receipt of the printed
+- *~~November 20th~~ November 23rd, 2015:* Last date for the receipt of the printed
   application form and Demand draft.
 
 - *December 5th and 6th, 2015:* Screening test and interviews.

@@ -15,6 +15,12 @@ is up
 
 </div>
 
+<div class="alert alert-danger">
+<i class="fa fa-exclamation-triangle"></i> Last date for online admission postponed to November 17th, 2015.
+</div>
+
+
+
 
 Welcome to the admissions webpage. The
 [department of Computer Science and Engineering][cse] at
