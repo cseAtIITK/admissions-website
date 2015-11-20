@@ -16,7 +16,8 @@ is up
 </div>
 
 <div class="alert alert-danger">
-<i class="fa fa-exclamation-triangle"></i> Last date for online admission postponed to November 17th, 2015.
+<i class="fa fa-exclamation-triangle"></i> Last date for online admission further extended to to 28th November, 2015.
+We will put a first short list of all the candidates who applied to us by 17th by 23rd of November 2015.
 </div>
 
 
