@@ -15,9 +15,11 @@ is up
 
 </div>
 
-<div class="alert alert-danger">
-<i class="fa fa-exclamation-triangle"></i> Last date for online admission further extended to to 28th November, 2015.
-We will put a first short list of all the candidates who applied to us by 17th by 23rd of November 2015.
+<div class="alert alert-danger"> <i class="fa
+fa-exclamation-triangle"></i> Last date for online admission further
+extended to to 28th November, 2015.  We will put a first short list of
+all candidates who have applied to us by 23rd of November 2015. A second
+short list will be put up after November 28th.
 </div>
 
 
