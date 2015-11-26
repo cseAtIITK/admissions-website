@@ -3,7 +3,7 @@ title: Admissions December 2015: Shortlisted candidates.
 ---
 
 We have shortlisted the candidates for the test and interview for Ph.D
-admissions (see the list at the end of the announcement).
+and M.S admissions (see the list at the end of the announcement).
 
 <!--more-->
 
