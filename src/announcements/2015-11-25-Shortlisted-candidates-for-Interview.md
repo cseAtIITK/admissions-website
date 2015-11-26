@@ -20,6 +20,11 @@ and interview.
 2. Please be prepared to be at IIT Kanpur on both 5th and 6th.
    The reporting time for screening test is 8:30am December 5th.
 
+3. Please bring the originals of all the certificates that you
+   uploaded on our site. This includes your degree certificates/mark
+   sheets, caste and NCL certificates or PH certificates if
+   applicable.
+
 3. Winter in Kanpur is cold, so come prepared with enough warm cloths.
 
 
