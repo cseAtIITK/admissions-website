@@ -37,6 +37,7 @@ November. So please expect some changes.~~
 This is the final short list based on all applications processed till
 28th November.
 
+
 |   # | Name                       |
 |-----+----------------------------|
 |   1 | Aakansha Mishra            |
@@ -44,140 +45,154 @@ This is the final short list based on all applications processed till
 |   3 | Abhisek Roy                |
 |   4 | Abhishek Singh             |
 |   5 | Abinash Pujahari           |
-|   6 | Ajay Kumar                 |
-|   7 | Akanksha Tiwari            |
-|   8 | Alpana                     |
-|   9 | Amar Karer                 |
-|  10 | Amardeep Singh             |
-|  11 | Amit Garg                  |
-|  12 | Amit Kumar                 |
-|  13 | Anamika Maurya             |
-|  14 | Anasua Mitra               |
-|  15 | Anjali Sharma              |
-|  16 | Ankur Pandey               |
-|  17 | Anneswa Ghosh              |
-|  18 | Annie Singla               |
-|  19 | Anshuman Rai               |
-|  20 | Apoorv Srivastava          |
-|  21 | Apoorve Tomer              |
-|  22 | Arabinda Panda             |
-|  23 | Arati Kushwaha             |
-|  24 | Arpita Sharma              |
-|  25 | Ashish Kumar Mishra        |
-|  26 | Atul Raj                   |
-|  27 | Avaneesh Singh             |
-|  28 | Avinash Kumar              |
-|  29 | Avinash Kumar              |
-|  30 | Avinash Murlidhar Ingole   |
-|  31 | Badri Narayana Patro       |
-|  32 | Chanda                     |
-|  33 | Chandra Shekhar Tiwari     |
-|  34 | Chaudhary Sundaram Gupta   |
-|  35 | Chetan Gupta               |
-|  36 | Debendra Kumar Naik        |
-|  37 | Dharmesh Bajpai            |
-|  38 | Dipanjan Roy               |
-|  39 | Divya Kumari               |
-|  40 | Divyanjali                 |
-|  41 | Farhina Mozaffer           |
-|  42 | Fathima Nuzla Ismail       |
-|  43 | Furqan Ahmed Khan          |
-|  44 | Gautam Sinha               |
-|  45 | Gufran Siddiqui            |
-|  46 | Haziq Jeelani              |
-|  47 | Himani Raina               |
-|  48 | Ishu Gupta                 |
-|  49 | Kaustubh Ulhas Kulkarni    |
-|  50 | Khakon Das                 |
-|  51 | Km Pooja                   |
-|  52 | Km Seema                   |
-|  53 | Komal Singh                |
-|  54 | Krishna Nand Chaturvedi    |
-|  55 | Madhurima Rana             |
-|  56 | Mahboob Hassan             |
-|  57 | Manjeet Kaur               |
-|  58 | Manoj Kumar Balwant        |
-|  59 | Md Arquam                  |
-|  60 | Mohammad Arif Khan         |
-|  61 | Mohammad Asif              |
-|  62 | Mohd Salman Khan           |
-|  63 | Mohit Kumar                |
-|  64 | Moien Ahmad Ansari         |
-|  65 | Mukul Prasad               |
-|  66 | Mula Naga Sai Ravi Shankar |
-|  67 | Muskaan Singh              |
-|  68 | Mvr Purna Kumar            |
-|  69 | Namrta Jaiswal             |
-|  70 | Naveen Saini               |
-|  71 | Niharika Thakur            |
-|  72 | Nimisha Agarwal            |
-|  73 | Nisha Pal                  |
-|  74 | Nishank Garg               |
-|  75 | Nitin                      |
-|  76 | Noopur Srivastava          |
-|  77 | Pawan Kumar Srivastava     |
-|  78 | Pitroda Hiren Kishorbhai   |
-|  79 | Poonam                     |
-|  80 | Prabhjot Singh             |
-|  81 | Prakash P                  |
-|  82 | Prasun Chandra Tripathi    |
-|  83 | Prateek Keserwani          |
-|  84 | Prateek Verma              |
-|  85 | Prateek Vishnoi            |
-|  86 | Pravendra Singh            |
-|  87 | Priodyuti Pradhan          |
-|  88 | Priti                      |
-|  89 | Priynka Kumari             |
-|  90 | Punit Kumar                |
-|  91 | Pushpendra Kumar Gautam    |
-|  92 | Rahul Mishra               |
-|  93 | Rajdeep Kumar Nath         |
-|  94 | Rajiv Kumar                |
-|  95 | Rakesh Kumar Sanodiya      |
-|  96 | Rijoy Mukherjee            |
-|  97 | Rishabh Bansal             |
-|  98 | Rishi Kant Sharma          |
-|  99 | Ritu Mewari                |
-| 100 | Rochak Swami               |
-| 101 | Rohit Negi                 |
-| 102 | Rohit Yeshwant Sathe       |
-| 103 | Roopali Salwan             |
-| 104 | Sabyasachi Kamila          |
-| 105 | Sachin Dev Sharma          |
-| 106 | Sajal Sarkar               |
-| 107 | Sakshi Agarwal             |
-| 108 | Sameer Dixit               |
-| 109 | Samujjwal Ghosh            |
-| 110 | Sangeeta Kumari            |
-| 111 | Saradindu Kar              |
-| 112 | Sarvesh Kumar              |
-| 113 | Sarvesh Kumar Pathak       |
-| 114 | Saurabh Chhabra            |
-| 115 | Saurabh Garg               |
-| 116 | Shaivya Kaushik            |
-| 117 | Sheel Sindhu Manohar       |
-| 118 | Shivendra Kumar Pandey     |
-| 119 | Shubham Goel               |
-| 120 | Shubham Gupta              |
-| 121 | Siddhartha Ray             |
-| 122 | Soumya Goswami             |
-| 123 | Sri Nath Dwivedi           |
-| 124 | Sukhendra Singh            |
-| 125 | Sunil Kumar                |
-| 126 | Suresh Chandra Raikwar     |
-| 127 | Swati Kumari               |
-| 128 | Tanmoy Kundu               |
-| 129 | Tapan Kumar Dey            |
-| 130 | Tarok Pramanik             |
-| 131 | Tawseef Ayoub Shaikh       |
-| 132 | Vaibhav Gupta              |
-| 133 | Vaibhav Malviya            |
-| 134 | Varsha Dixit               |
-| 135 | Vijay Prakash Maurya       |
-| 136 | Vimal Raj Sharma           |
-| 137 | Vinay Kumar Verma          |
-| 138 | Vishal Srivastava          |
-| 139 | Y Venkatramana Reddy       |
-| 140 | Yaddala Srinivasulu        |
-| 141 | Yasmin Sultana             |
-| 142 | Yogesh Singh               |
+|   6 | Agha Alfi Mirza            |
+|   7 | Ajay Kumar                 |
+|   8 | Akanksha Tiwari            |
+|   9 | Alpana                     |
+|  10 | Amar Karer                 |
+|  11 | Amardeep Singh             |
+|  12 | Amit Garg                  |
+|  13 | Amit Kumar                 |
+|  14 | Anamika Maurya             |
+|  15 | Anasua Mitra               |
+|  16 | Anjali Sharma              |
+|  17 | Ankita Manaktala           |
+|  18 | Ankur Pandey               |
+|  19 | Anneswa Ghosh              |
+|  20 | Annie Singla               |
+|  21 | Anshuman Rai               |
+|  22 | Apoorv Srivastava          |
+|  23 | Apoorve Tomer              |
+|  24 | Arabinda Panda             |
+|  25 | Arati Kushwaha             |
+|  26 | Arpita Sharma              |
+|  27 | Ashish Kumar Mishra        |
+|  28 | Atul Raj                   |
+|  29 | Avaneesh Singh             |
+|  30 | Avinash Kumar              |
+|  31 | Avinash Kumar              |
+|  32 | Avinash Murlidhar Ingole   |
+|  33 | Badri Narayana Patro       |
+|  34 | Chanda                     |
+|  35 | Chandra Shekhar Tiwari     |
+|  36 | Chaudhary Sundaram Gupta   |
+|  37 | Chetan Gupta               |
+|  38 | Debendra Kumar Naik        |
+|  39 | Dharmesh Bajpai            |
+|  40 | Dipanjan Roy               |
+|  41 | Divya Kumari               |
+|  42 | Divyanjali                 |
+|  43 | Farhina Mozaffer           |
+|  44 | Fathima Nuzla Ismail       |
+|  45 | Furqan Ahmed Khan          |
+|  46 | Gautam Sinha               |
+|  47 | Gufran Siddiqui            |
+|  48 | Gunjan Gautam              |
+|  49 | Haziq Jeelani              |
+|  50 | Himani Raina               |
+|  51 | Ishu Gupta                 |
+|  52 | Jaya Gupta                 |
+|  53 | Kaustubh Ulhas Kulkarni    |
+|  54 | Khakon Das                 |
+|  55 | Khakon Das                 |
+|  56 | Km Pooja                   |
+|  57 | Km Seema                   |
+|  58 | Komal Singh                |
+|  59 | Krishna Nand Chaturvedi    |
+|  60 | Madhurima Rana             |
+|  61 | Mahboob Hassan             |
+|  62 | Manjeet Kaur               |
+|  63 | Manoj Kumar Balwant        |
+|  64 | Md Arquam                  |
+|  65 | Mohammad Arif Khan         |
+|  66 | Mohammad Asif              |
+|  67 | Mohd Salman Khan           |
+|  68 | Mohit Kumar                |
+|  69 | Moien Ahmad Ansari         |
+|  70 | Mukul Prasad               |
+|  71 | Mula Naga Sai Ravi Shankar |
+|  72 | Muskaan Singh              |
+|  73 | Mvr Purna Kumar            |
+|  74 | Namrta Jaiswal             |
+|  75 | Naveen Saini               |
+|  76 | Neda Firoz                 |
+|  77 | Niharika Thakur            |
+|  78 | Nimisha Agarwal            |
+|  79 | Nisha Pal                  |
+|  80 | Nishank Garg               |
+|  81 | Nitin                      |
+|  82 | Noopur Srivastava          |
+|  83 | Pawan Kumar Srivastava     |
+|  84 | Pitroda Hiren Kishorbhai   |
+|  85 | Piyush Dubey               |
+|  86 | Poonam                     |
+|  87 | Prabhjot Singh             |
+|  88 | Prakash P                  |
+|  89 | Prasun Chandra Tripathi    |
+|  90 | Prateek Keserwani          |
+|  91 | Prateek Verma              |
+|  92 | Prateek Vishnoi            |
+|  93 | Pravendra Singh            |
+|  94 | Priodyuti Pradhan          |
+|  95 | Priti                      |
+|  96 | Priynka Kumari             |
+|  97 | Punit Kumar                |
+|  98 | Pushpendra Kumar Gautam    |
+|  99 | Rahul Mishra               |
+| 100 | Rajdeep Kumar Nath         |
+| 101 | Rajiv Kumar                |
+| 102 | Rakesh Kumar Sanodiya      |
+| 103 | Raksh Pal Singh            |
+| 104 | Rijoy Mukherjee            |
+| 105 | Rishabh Bansal             |
+| 106 | Rishi Kant Sharma          |
+| 107 | Ritu Mewari                |
+| 108 | Rochak Swami               |
+| 109 | Rohit Negi                 |
+| 110 | Rohit Yeshwant Sathe       |
+| 111 | Roopali Salwan             |
+| 112 | Sabyasachi Kamila          |
+| 113 | Sachin Dev Sharma          |
+| 114 | Sajal Sarkar               |
+| 115 | Sakshi Agarwal             |
+| 116 | Sameer Dixit               |
+| 117 | Samujjwal Ghosh            |
+| 118 | Sangeeta Kumari            |
+| 119 | Saradindu Kar              |
+| 120 | Sarvesh Kumar              |
+| 121 | Sarvesh Kumar Pathak       |
+| 122 | Saurabh Chhabra            |
+| 123 | Saurabh Garg               |
+| 124 | Shaivya Kaushik            |
+| 125 | Sheel Sindhu Manohar       |
+| 126 | Shivendra Kumar Pandey     |
+| 127 | Shubham Goel               |
+| 128 | Shubham Gupta              |
+| 129 | Siddhartha Ray             |
+| 130 | Soumya Goswami             |
+| 131 | Soumya Goswami             |
+| 132 | Sri Nath Dwivedi           |
+| 133 | Sukhendra Singh            |
+| 134 | Sunil Kumar                |
+| 135 | Suresh Chandra Raikwar     |
+| 136 | Swati Kumari               |
+| 137 | Swati Srivastava           |
+| 138 | Tanmoy Kundu               |
+| 139 | Tapan Kumar Dey            |
+| 140 | Tarok Pramanik             |
+| 141 | Tawseef Ayoub Shaikh       |
+| 142 | Tej Pal Singh              |
+| 143 | Tripathi Ramesh Reddy      |
+| 144 | Vaibhav Gupta              |
+| 145 | Vaibhav Malviya            |
+| 146 | Varsha Dixit               |
+| 147 | Vijay Prakash Maurya       |
+| 148 | Vikash Mainanwal           |
+| 149 | Vimal Raj Sharma           |
+| 150 | Vinay Kumar Verma          |
+| 151 | Vishal Srivastava          |
+| 152 | Y Venkatramana Reddy       |
+| 153 | Yaddala Srinivasulu        |
+| 154 | Yasmin Sultana             |
+| 155 | Yogesh Kumar               |
+| 156 | Yogesh Singh               |
