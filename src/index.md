@@ -6,20 +6,17 @@ jumbotron: yes
 
 <div class="alert alert-danger">
 
+
+**Chennai floods:** For candidates stranded in Chennai due to floods, we will have
+a separate selection process on *22nd of December, 2015*.  Note that we will not entertain
+any other candidates. Please send a mail to <admissions@cse.iitk.ac.in> if you want to
+be considered for this selection process.
+
+
 **Winter admissions:** [Post graduate admissions][winter-2015-announcement] for
-*December 2015 will be held on 5th and 6th December*. The [online application portal][portal]
-is up
+*December 2015 will be held on 5th and 6th December*. Accommodation has been booked
+at the Girls Hostel-1 (GH-1) for women and Hall-11 for men.
 
-**GATE waiver:** Final year students from [CFTI]s are eligible. See the
-[announcement][direct-phd].
-
-</div>
-
-<div class="alert alert-danger"> <i class="fa
-fa-exclamation-triangle"></i> Last date for online admission further
-extended to to 28th November, 2015.  We will put a first short list of
-all candidates who have applied to us by 23rd of November 2015. A second
-short list will be put up after November 28th.
 </div>
 
 
