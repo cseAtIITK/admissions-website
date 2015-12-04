@@ -25,7 +25,12 @@ and interview.
    sheets, caste and NCL certificates or PH certificates if
    applicable.
 
-3. Winter in Kanpur is cold, so come prepared with enough warm cloths.
+4. Winter in Kanpur is cold, so come prepared with enough warm cloths.
+
+5. Accommodation has been arranged at Grils Hostel-1 for women and Hall-11
+   for men. If you reach the Institute early, please report to the respective halls
+   for accommodation.
+
 
 
 ## List of short listed candidates.
