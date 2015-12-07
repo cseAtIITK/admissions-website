@@ -30,8 +30,24 @@
       .calendar-text{ margin-top: 0.3em; }
       
       $if(jumbotron)$
-      .navbar {margin: 0;}
-      .jumbotron {background:#5bc0de; color:white; }
+      .navbar {margin: 0; border-radius: 0;}
+      .jumbotron {
+             background-image: url("/images/kd-from-rm.jpg");
+             background-size: cover;
+             text-align: left;
+             height: 500px;
+             color: #d5d5d5;
+      }
+      div.hero {
+          height: 100%;
+          position: relative;
+      }
+      div.herotext {
+          margin: 0;
+          position: absolute;
+          top: 50%;
+          transform: translate(0,-50%);
+      }
       $endif$
       
     </style>
@@ -41,7 +57,9 @@
   $if(jumbotron)$
   $partial("templates/jumbotron.html")$
   $else$
-  $partial("templates/navigation.html")$
+    <nav class="navbar navbar-default" role="navigation">
+      $partial("templates/navigation.html")$
+    </nav>  
   $endif$
   <body>
     <div class="container">
